@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="companion_android_no_exist">Por favor, instala reloj tic App para acceder a la información de %1$s.</string>
+    <string name="companion_android_no_login">Por favor,inicie sesión en la aplicación de reloj tic para acceder a la información de %1$s.</string>
+    <string name="companion_ios_no_exist">Por favor ,instala y entra en la aplicación reloj  para acceder a la información de %1$s.</string>
+</resources>

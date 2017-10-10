@@ -1,0 +1,28 @@
+<resources>
+    <string name="feedback_hint">Wir schätzen das Feedback jedes Nutzers</string>
+    <string name="feedback_add_picture">Foto hinzufügen</string>
+    <string name="feedback_email_title">E-Mail-Addresse</string>
+    <string name="feedback_email_hint">Optional</string>
+    <string name="feedback_phone_title">Telefonnummer</string>
+    <string name="feedback_phone_hint">Optional</string>
+    <string name="feedback_submit">einreichen</string>
+    <string name="feedback_description_empty">Du hast noch nichts eingetragen</string>
+    <string name="feedback_invalid_email">E-mail Adresse ist nicht korrekt</string>
+    <string name="feedback_invalid_phone">Telefonnummer ist ungültig</string>
+    <string name="feedback_description_length">höchstens 150 briefe</string>
+    <string name="no_camera_app_found">Keine Kamera-Anwendung gefunden</string>
+    <string name="feedback_img_select_dialog_title">Bildquelle</string>
+    <string name="feedback_select_pic_take_photo">Machen Sie ein Foto</string>
+    <string name="feedback_select_pic_from_gallery">Wähle aus deinem Album</string>
+    <string name="feedback_upload_success">Feedback übermittelt</string>
+    <string name="feedback_upload_fial">Rückmeldung fehlgeschlagen</string>
+    <string name="type_list_tips_multiple">Bitte wählen Sie Fragetypen (MC)</string>
+    <string name="type_list_tips_single">Bitte wählen Sie Frage Typ (SC)</string>
+    <string name="feedback_type_error">Fehler bei der Rückmeldung erhalten</string>
+    <string name="feedback_upload_wait_msg">Hochladen &#8230; Warten Sie mal.</string>
+    <string name="feedback">Feedback</string>
+    <string name="image_picker_next">Nächster Schritt</string>
+    <string name="image_picker">Foto auswählen</string>
+    <string name="image_picker_exceed">Wählen Sie bis zu%1$d Fotos aus</string>
+
+</resources>

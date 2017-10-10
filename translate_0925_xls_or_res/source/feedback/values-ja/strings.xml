@@ -1,0 +1,28 @@
+<resources>
+    <string name="feedback_hint">私たちはすべてのユーザーのフィードバックを大切にします</string>
+    <string name="feedback_add_picture">写真を追加</string>
+    <string name="feedback_email_title">電子メールアドレス</string>
+    <string name="feedback_email_hint">任意</string>
+    <string name="feedback_phone_title">電話番号</string>
+    <string name="feedback_phone_hint">任意</string>
+    <string name="feedback_submit">提出する</string>
+    <string name="feedback_description_empty">まだ何も入力していない</string>
+    <string name="feedback_invalid_email">メールアドレスが無効です</string>
+    <string name="feedback_invalid_phone">電話番号が無効です</string>
+    <string name="feedback_description_length">150文字以下</string>
+    <string name="no_camera_app_found">カメラアプリケーションが見つかりませんでした</string>
+    <string name="feedback_img_select_dialog_title">画像ソース</string>
+    <string name="feedback_select_pic_take_photo">写真を撮る</string>
+    <string name="feedback_select_pic_from_gallery">あなたのアルバムから選択する</string>
+    <string name="feedback_upload_success">フィードバックが提出されました</string>
+    <string name="feedback_upload_fial">フィードバック提出に失敗しました</string>
+    <string name="type_list_tips_multiple">質問タイプ（MC）を選択してください</string>
+    <string name="type_list_tips_single">質問タイプ（SC）を選択してください</string>
+    <string name="feedback_type_error">フィードバックタイプの取得に失敗しました</string>
+    <string name="feedback_upload_wait_msg">アップロード中&#8230;お待ちください。</string>
+    <string name="feedback">フィードバック</string>
+    <string name="image_picker_next">次のステップ</string>
+    <string name="image_picker">写真を選択</string>
+    <string name="image_picker_exceed">最大%1$d枚の写真を選択</string>
+
+</resources>

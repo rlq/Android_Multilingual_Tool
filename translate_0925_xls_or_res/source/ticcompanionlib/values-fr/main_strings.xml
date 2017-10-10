@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_connection_not_connect">Déconnecté</string>
+    <string name="main_connection_add_new">Appairer une nouvelle montre</string>
+
+    <string name="main_status_disconnected">Déconnecté</string>
+    <string name="main_status_connected">Connecté</string>
+    <string name="main_status_connected_cloud">Connecté</string>
+    <string name="main_notify_goto_aw">Reconnectez votre montre à votre téléphone en utilisant Android Wear sur votre téléphone.</string>
+
+    <string name="main_device_remove_alert">Voulez-vous supprimer cet appareil ?</string>
+
+    <string name="main_permission_denied_rationale">Autorisez Ticwatch à enregistrer votre géolocalisation pour suivre vos activités.</string>
+    <string name="main_permission_denied_rationale_debug">Autorisez Ticwatch à enregistrer votre géolocalisation pour suivre vos activités et utiliser la carte mémoire pour enregistrer les journaux de débogage.</string>
+    <string name="main_permission_settings">Réglages</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="feedback_hint">We treasure every user’s feedback</string>
+    <string name="feedback_add_picture">add photo</string>
+    <string name="feedback_email_title">Email Address</string>
+    <string name="feedback_email_hint">Optional</string>
+    <string name="feedback_phone_title">Phone Number</string>
+    <string name="feedback_phone_hint">Optional</string>
+    <string name="feedback_submit">Submit</string>
+    <string name="feedback_description_empty">You did not enter anything yet</string>
+    <string name="feedback_invalid_email">Email address is invalid</string>
+    <string name="feedback_invalid_phone">Phone number is invalid</string>
+    <string name="feedback_description_length">at most 150 letters</string>
+    <string name="no_camera_app_found">Didn’t find camera application</string>
+    <string name="feedback_img_select_dialog_title">Image source</string>
+    <string name="feedback_select_pic_take_photo">Take a picture</string>
+    <string name="feedback_select_pic_from_gallery">Select from your album</string>
+    <string name="feedback_upload_success">Feedback Submitted</string>
+    <string name="feedback_upload_fial">Feedback submission failed</string>
+    <string name="type_list_tips_multiple">Please select question types (MC)</string>
+    <string name="type_list_tips_single">Please select question type(SC)）</string>
+    <string name="feedback_type_error">Failed to obtain feedback type</string>
+    <string name="feedback_upload_wait_msg">Uploading&#8230; Please wait</string>
+    <string name="feedback">Feedback</string>
+    <string name="image_picker_next">Next Step</string>
+    <string name="image_picker">Select photo</string>
+    <string name="image_picker_exceed">Select photos up to%1$d</string>
+
+    <string name="vpa" translatable="false">VPA</string>
+    <string name="ticwatch" translatable="false">TicWatch</string>
+    <string name="tichome" translatable="false">TicHome</string>
+</resources>

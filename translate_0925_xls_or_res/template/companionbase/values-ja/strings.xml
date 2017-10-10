@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_title_share"></string>
+    <string name="help_share_title"></string>
+    <string name="change_avatar_camera"></string>
+    <string name="change_avatar_photo"></string>
+    <string name="label_share"></string>
+    <string name="label_share_title"></string>
+</resources>

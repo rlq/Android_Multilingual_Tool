@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Mobvoi Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- health center-->
+    <string name="health_center">Gesundheitszentrum</string>
+    <string name="sports_history">%s Verlauf</string>
+    <string name="sports_unit">%1$d-Minute %2$s</string>
+    <string name="this_week">Diese Woche</string>
+    <string name="month">Monat</string>
+    <string name="week">Woche</string>
+    <string name="day">Tag</string>
+    <string name="minute">Minute</string>
+    <string name="step">Schritt</string>
+
+    <string name="kilometer">Kilometer</string>
+
+    <string name="distance_formatter">%1$.2f</string>
+    <string name="set_step_goal_failed">Das Ziel konnte nicht gesetzt werden. Bitte die Uhr verbinden.</string>
+    <!-- end of helath center-->
+
+    <string name="percent_unit">&#037;</string>
+    <string name="health_detail_progress_step">Schritte</string>
+    <string name="health_detail_progress_time">Bewegung</string>
+    <string name="health_detail_progress_count_tip">Aktive Stunden</string>
+    <string name="health_detail_cost_tip">Verbrannte Kalorien</string>
+    <string name="health_detail_distance_tip">Entfernung/km</string>
+    <string name="health_detail_distance_miles_tip">Entfernung/Meilen</string>
+    <string name="health_detail_de_tip">Aktive Stunden</string>
+    <string name="health_detail_step_tip">Schritte</string>
+    <string name="health_detail_time_tip">Bewegung/min</string>
+    <string name="health_detail_tip">Detaillierte Daten anzeigen</string>
+
+    <string name="time_minute">Minuten</string>
+
+    <string name="health_average">Durchschnitt</string>
+    <string name="health_step_unit">Schritte</string>
+    <string name="health_time_unit">min</string>
+    <string name="health_count_unit">Stunden</string>
+    <string name="health_detail_dialog_step_tip"><![CDATA[ 
+        <font color=#ff804c size=50>&#183; </font>Das aktuelle Tagesziel ist &#160;%1$d&#160; Schritte.
+        Wenn Sie ein anderes Ziel bevorzugen, können Sie Ihr tägliches Schritt-Ziel in Health Center - Persönliche
+        Informationen ändern.]]></string>
+
+    <string name="health_detail_dialog_time_tip"><![CDATA[ 
+        <font color=#ff804c size=50>&#183; </font>Nur Bewegungen, die intensiver als ein schneller
+        Spaziergang sind, werden als Training gezählt.<br><br><font color=#33a6ff>&#183; </font> Für Ihre Referenz,
+        medizinische Experten empfehlen, sich täglich 20-30 Minuten mit moderater bis hoher Intensität zu bewegen.]]></string>
+
+    <string name="health_detail_dialog_count_tip"><![CDATA[
+        <font color=#64d35e>&#183; </font>Nur Stunden mit mehr als &#160;250&#160;Stufen werden gezählt.<br><br>
+        <font color=#64d35e>&#183; </font>Häufige Pausen, um aufzustehen oder zu gehen, verringert Ihre Chancen auf Diabetes oder Herzkrankheiten deutlich. Forscher empfehlen, sich jede Stunde einige Minuten lang hinzustellen.]]></string>
+
+    <string name="health_detail_dialog_step_title">Gesamtschritte für den Tag</string>
+    <string name="health_detail_dialog_step_subtitle">Es wird empfohlen, jeden Tag &#160;8000~10000&#160; Schritte zu gehen</string>
+    <string name="health_detail_dialog_time_title">Verwirrend. Kontext könnte helfen. Aber Totale Schrittintensität hat keine klare Bedeutung. Ist die Intensität nötig? Wenn dies kennzeichnet, wieviel Schritte am Tag insgesamt gegangen wurden, denke ich, dass es nicht benötigt wird.</string>
+    <string name="health_detail_dialog_time_subtitle">Es wird empfohlen, jeden Tag &#160;30&#160;Minuten zu gehen.</string>
+    <string name="health_detail_dialog_count_title">Insgesamt aktive Stunden für den Tag.</string>
+    <string name="health_detail_dialog_count_subtitle">Es wird empfohlen, jede Stunde wenigstens &#160;250&#160;Schritte zu gehen</string>
+
+    <string name="yesterday">Gestern</string>
+    <string name="today">Heute</string>
+
+    <string name="health_version_tip_dialog_title">*&#160;Ticwatch Version ist zu niedrig. Bitte aktualisieren Sie die Uhr, um die kompletten Gesundheitsinformationen anzuzeigen.</string>
+    <string name="health_version_tip_dialog_item1_start">1.&#160;Öffnen&#160;</string>
+    <string name="health_version_tip_dialog_item1_end">&#160;[Einstellungen] auf der Uhr</string>
+    <string name="health_version_tip_dialog_item2_start">2.&#160;Finden&#160;</string>
+    <string name="health_version_tip_dialog_item2_end">&#160;[Update]</string>
+    <string name="health_version_tip_dialog_item3">3.&#160;Wählen Sie&#160;[Versions-Update]</string>
+    <string name="health_version_tip_dialog_item4">4. &#160;Ticwear App am Telefon öffnen, nachdem das Update abgeschlossen ist.</string>
+    <string name="health_version_tip_dialog_buttom">OK</string>
+</resources>

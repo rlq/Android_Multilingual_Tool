@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="health_main_menu_profile"></string>
+    <string name="health_main_menu_sync"></string>
+    <string name="health_main_sync_failed"></string>
+    <string name="health_main_sync_network_failed"></string>
+    <string name="health_main_sync_auth_failed"></string>
+    <string name="health_main_sync_health_failed"></string>
+    <string name="health_main_sync_sports_failed"></string>
+    <string name="health_main_sync_success"></string>
+
+    <string name="health_sport_menu_share_save"></string>
+    <string name="health_sport_menu_share_send"></string>
+
+    <string name="health_sport_list_check_history"></string>
+    <string name="health_sport_list_today_history"></string>
+
+    <string name="health_sport_data_unit_distance"></string>
+    <string name="health_sport_data_unit_calorie"></string>
+    <string name="health_sport_data_unit_heartrate"></string>
+    <string name="health_sport_data_unit_speed"></string>
+    <string name="health_sport_data_unit_pace"></string>
+    <string name="health_sport_data_unit_speed_imperial"></string>
+    <string name="health_sport_data_unit_pace_imperial"></string>
+    <string name="health_sport_data_unit_step_length"></string>
+    <string name="health_sport_data_unit_step_length_imperial"></string>
+
+    <string name="health_sport_data_desc_short_distance"></string>
+    <string name="health_sport_data_desc_short_heartrate"></string>
+    <string name="health_sport_data_desc_short_stride"></string>
+    <string name="health_sport_data_desc_short_stridefreq"></string>
+    <string name="health_sport_data_desc_short_speed"></string>
+    <string name="health_sport_data_desc_short_pace"></string>
+    <string name="health_sport_data_desc_short_distance_path"></string>
+    <string name="health_sport_data_desc_short_path"></string>
+    <string name="health_sport_data_desc_short_training"></string>
+
+    <string name="health_sport_data_desc_long_duration"></string>
+    <string name="health_sport_data_desc_long_calorie"></string>
+    <string name="health_sport_data_desc_long_heartrate"></string>
+    <string name="health_sport_data_desc_long_speed"></string>
+
+    <string name="health_sport_type_unknown"></string>
+    <string name="health_sport_type_indoor_running"></string>
+    <string name="health_sport_type_outdoor_walk"></string>
+    <string name="health_sport_type_outdoor_running"></string>
+    <string name="health_sport_type_outdoor_bike"></string>
+    <string name="health_sport_type_free_workout"></string>
+
+    <string-array name="health_sport_weeks">
+        <item name="health_sport_weeks0"></item>
+        <item name="health_sport_weeks1"></item>
+        <item name="health_sport_weeks2"></item>
+        <item name="health_sport_weeks3"></item>
+        <item name="health_sport_weeks4"></item>
+        <item name="health_sport_weeks5"></item>
+        <item name="health_sport_weeks6"></item>
+    </string-array>
+    <string name="health_sport_detail_target_description"></string>
+    <string name="health_sport_detail_progress_unit"></string>
+    <string name="health_sport_detail_delete_success"></string>
+    <string name="health_sport_detail_delete_confirm"></string>
+    <string name="health_sport_detail_delete_confirm_ok"></string>
+    <string name="health_sport_detail_delete_confirm_cancel"></string>
+    <string name="health_sport_detail_provide"></string>
+    <string name="health_sport_detail_time_format"></string>
+    <string name="health_sport_detail_time_format_speed"></string>
+    <string name="health_sport_detail_training_groups"></string>
+    <string name="health_sport_detail_speed_distance_format"></string>
+    <string name="health_sport_detail_stridefre_average"></string>
+    <string name="health_sport_detail_stridefre_average_invalid"></string>
+    <string name="health_sport_detail_stride_average"></string>
+    <string name="health_sport_detail_stride_average_invalid"></string>
+    <string name="health_sport_detail_pace_description"></string>
+    <string name="health_sport_detail_pace_content"></string>
+    <string name="health_sport_detail_pace_max"></string>
+    <string name="health_sport_detail_pace_max_invalid"></string>
+    <string name="health_sport_detail_pace_average"></string>
+    <string name="health_sport_detail_pace_average_invalid"></string>
+    <string name="health_sport_detail_speed_average"></string>
+    <string name="health_sport_detail_speed_average_invalid"></string>
+    <string name="health_sport_detail_speed_max"></string>
+    <string name="health_sport_detail_speed_max_invalid"></string>
+    <string name="health_sport_detail_speed_increase"></string>
+    <string name="health_sport_detail_speed_decrease"></string>
+    <string name="health_sport_detail_ul"></string>
+    <string name="health_sport_detail_heartrate_description"></string>
+    <string name="health_sport_detail_heartrate_content" formatted="false"></string>
+    <string name="health_sport_detail_heartrate_average"></string>
+    <string name="health_sport_detail_heartrate_average_invalid"></string>
+    <string name="health_sport_detail_heartrate_lossWeight_time"></string>
+    <string name="health_sport_detail_heartrate_lossWeight_time_invalid"></string>
+    <string name="health_sport_detail_heartrate_improve_time"></string>
+    <string name="health_sport_detail_heartrate_improve_time_invalid"></string>
+    <string name="health_sport_detail_path_distance"></string>
+    <string name="health_sport_detail_path_distance_invalid"></string>
+    <string name="health_sport_detail_path_no_gps"></string>
+    <string name="health_sport_detail_no_data"></string>
+    <string name="health_sport_detail_path_description"></string>
+    <string name="health_sport_detail_path_content"></string>
+    <string name="health_sport_detail_training_complete"></string>
+    <string name="health_sport_detail_training_complete_invalid"></string>
+
+    <string name="health_sport_share_data"></string>
+    <string name="health_sport_share_image"></string>
+    <string name="health_sport_share_sharing_failed"></string>
+    <string name="health_sport_share_save_success"></string>
+    <string name="health_sport_share_save_folder"></string>
+
+
+    <string name="health_sport_error_sport_id_invalidate"></string>
+    <string name="health_sport_error_account_update_failed"></string>
+    <string name="health_sport_error_network_user_offline"></string>
+
+    <string name="health_sport_share_change_avatar_camera"></string>
+    <string name="health_sport_share_change_avatar_photo"></string>
+
+    <!-- DON't Change block >> start -->
+    <string name="health_dev_menu_enter"></string>
+    <string name="health_dev_menu_exit"></string>
+    <string name="health_dev_menu_exited"></string>
+    <string name="health_dev_menu_capture_log"></string>
+    <string name="health_dev_menu_mock_gps_location_open"></string>
+    <string name="health_dev_menu_mock_sport_control_open"></string>
+    <string name="health_dev_menu_mock_gps_location_close"></string>
+    <string name="health_dev_menu_mock_sport_control_close"></string>
+    <string name="health_dev_menu_use_mobile_location_open"></string>
+    <string name="health_dev_menu_use_mobile_location_close"></string>
+    <string name="health_dev_menu_mock_gps_location_opened"></string>
+    <string name="health_dev_menu_mock_gps_location_closed"></string>
+    <string name="health_dev_menu_mock_sport_control_opened"></string>
+    <string name="health_dev_menu_mock_sport_control_closed"></string>
+    <string name="health_dev_menu_use_mobile_location_opened"></string>
+    <string name="health_dev_menu_use_mobile_location_closed"></string>
+    <string name="health_dev_log_saving"></string>
+    <string name="health_dev_log_saved"></string>
+
+    <string name="health_dev_menu_capture_session"></string>
+    <string name="health_dev_session_show_id"></string>
+    <string name="health_dev_session_dialog_title"></string>
+    <string name="health_dev_session_dumping"></string>
+    <string name="health_dev_session_dump_success"></string>
+    <string name="health_dev_session_dump_failed"></string>
+
+    <string name="health_dev_menu_import_session"></string>
+    <string name="health_dev_session_choose_file"></string>
+    <string name="health_dev_session_importing"></string>
+    <plurals name="health_dev_session_load_success">
+        <item quantity="one" name="health_dev_session_load_success0"></item>
+        <item quantity="other" name="health_dev_session_load_success1"></item>
+    </plurals>
+    <string name="health_dev_session_load_failed"></string>
+    <!-- DON't Change block <<<< end -->
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_buy_ticwatch">時計がまだお手元にないですか？<a href="https://en.ticwear.com/">Ticwatch Store</a>でご購入ください。</string>
+    <string name="welcome_start">開始する</string>
+</resources>

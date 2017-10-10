@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paring_no_aw_install">Sur Google Play, téléchargez Android Wear avant d'appairer votre montre.</string>
+    <string name="paring_pair_in_aw">Vous aurez besoin d'utiliser Android Wear pour appairer votre téléphone et votre montre.</string>
+    <string name="paring_pair_complete">Correctement appairé.</string>
+
+    <string name="paring_go_play_store">Aller à Play Store</string>
+    <string name="paring_go_aw">Ouvrir l’appli Android Wear</string>
+    <string name="paring_start">Démarrer</string>
+</resources>

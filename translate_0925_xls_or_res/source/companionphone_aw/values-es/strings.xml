@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authorize_title">autorizar_título</string>
+    <string name="fit_authorized">ajuste_autorizado</string>
+    <string name="fit_unauthorized">ajuste_no autorizado</string>
+    <string name="fitness_default_activity">aptitud_defecto_actividad</string>
+    <string name="label_share">atiqueta_compartir</string>
+    <string name="label_share_title">atiqueta_compartir_título</string>
+    <string name="fitness_data_sync_tip">aptitud_datos_sincronizar_consejos</string>
+</resources>

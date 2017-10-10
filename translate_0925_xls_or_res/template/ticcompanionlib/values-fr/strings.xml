@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common strings -->
+    <string name="ok"></string>
+    <string name="cancel"></string>
+
+    <string name="appstore_title"></string>
+    <string name="appstore_url"></string>
+    <string name="save"></string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+
+    <!-- Common strings -->
+    <string name="ok"></string>
+    <string name="cancel"></string>
+
+    <string name="appstore_title"></string>
+    <string name="appstore_url"></string>
+    <!-- units -->
+    <string name="miles"></string>
+    <string name="pounds"></string>
+    <string name="label_male"></string>
+    <string name="label_female"></string>
+    <string name="label_metric"></string>
+    <string name="label_imperial"></string>
+    <string name="personal_info"></string>
+    <string name="your_gender"></string>
+    <string name="birthday"></string>
+    <string name="label_weight"></string>
+    <string name="label_height"></string>
+    <string name="label_gender"></string>
+    <string name="label_step_goal"></string>
+    <string name="label_active_hour_start"></string>
+    <string name="set_active_hour_goal_failed">Der aktive Stundenbereich kann nicht eingestellt werden. Bitte die Uhr verbinden.</string>
+    <string name="set_step_goal_failed">Das Ziel konnte nicht gesetzt werden. Bitte die Uhr verbinden.</string>
+    <string name="choose_weight_hint"></string>
+    <string name="choose_height_hint"></string>
+    <string name="step_des"></string>
+    <string name="step_goal_hint"></string>
+    <string name="next_step"></string>
+    <string name="profile_tip"></string>
+    <string name="jump_profile">Verwirrend, Kontext würde helfen. Ich denke das heißt:
+Ich brauche es nicht. Überspringen.</string>
+    <string name="finish_profile"></string>
+    <string name="profile_head_permission_tips"></string>
+    <string name="feedback_permission_tips">Bitte erlauben Sie Ticwatch, auf Ihre SD-Karte zuzugreifen</string>
+
+    <!-- support -->
+    <string name="support_title"></string>
+    <string name="support_fb_item"></string>
+    <string name="support_faq_item"></string>
+    <string name="feedback_watch_item"></string>
+    <string name="feedback_phone_item"></string>
+</resources>

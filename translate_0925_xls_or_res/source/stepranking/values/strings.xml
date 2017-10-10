@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Step Ranking</string>
+
+    <!--Entry-->
+    <string name="entry_tips_title">Tips:</string>
+    <string name="entry_text_content">Ticwatch will get your geographic location for stats rankings.</string>
+    <string name="entry_enter">Allow</string>
+    <string name="entry_decline">Deny</string>
+
+    <!--主页-->
+    <string name="near_rank">Nearby ranking</string>
+    <string name="main_like_num">%1$d people like you </string>
+    <string name="social_loading">loading…</string>
+
+    <!--附近排行-->
+    <string name="nearby_ranklist">Nearby</string>
+    <string name="back_to_top">Back to top</string>
+    <string name="last_tips">No more items</string>
+    <string name="connect_net">Please connect to the network</string>
+
+    <!--点赞人-->
+    <string name="likes_people">people like you</string>
+    <string name="back_to_top_like">Back To Top</string>
+
+    <!--点赞通知-->
+    <string name="social_set">Settings</string>
+    <string name="like_notify_set">Like notification</string>
+    <string name="on">Enabled</string>
+    <string name="off">Disabled</string>
+    <string name="like_notify_info_on">When you disable it, you will not receive the notification</string>
+    <string name="like_notify_info_off">When you enable it, you will receive the notification</string>
+
+    <!--他人页面-->
+    <string name="user_like_tip">Who likes him:</string>
+    <string name="no_rank">Not on the list</string>
+    <string name="main_steps">%1$d steps</string>
+    <string name="main_rank">%1$d</string>
+    <string name="distance_m">%1$d m</string>
+    <string name="distance_km">%1$.1f km</string>
+    <string name="distance_m_less_than" translatable="false">＜ %1$d m</string>
+    <string name="distance_km_less_than" translatable="false">＜ %1$.2f km</string>
+    <string name="distance_km_more_than" translatable="false">＞ %1$.2f km</string>
+    <string name="distance_mi" translatable="false">%1$.2f mi</string>
+    <string name="distance_mi_less_than" translatable="false">＜ %1$.2f mi</string>
+    <string name="distance_mi_more_than" translatable="false">＞ %1$.2f mi</string>
+    <string name="today">Today</string>
+    <string name="days_ago">%1$d Days ago</string>
+    <string name="today_steps">Today %1$d steps</string>
+    <string name="user_address_distance">%1$s away %2$s</string>
+    <string name="push_content">Your ranking for the day is %1$d and you received %2$d likes in total.</string>
+    <string name="push_title">Step Ranking notification</string>
+    <string name="push_open">Open App</string>
+    <string name="connect_net_content">Network disconnected. Please connect to Wi-Fi or companion to access the information.</string>
+    <string name="mobile_network_permission_denial">Cellular data permission is denied. Enable it?</string>
+    <string name="mobile_network_permission_setting_explain">Cellular data permission is denied. Enable in Settings?</string>
+    <string name="location_permission_denial">Network location permission is denied. Enable it?</string>
+    <string name="location_setting_explain">Please open the "Location" permission in Settings to get the location information</string>
+    <string name="no_address_content">Failed to get location information. Please retry.</string>
+    <string name="net_fail_content">Failed to request network. Please retry.</string>
+    <string name="no_address_title">No address</string>
+    <string name="net_fail_title">Request Failed</string>
+    <string name="connect_net_title">No network</string>
+    <string name="rank_first_word"></string>
+    <string name="rank_last_word"></string>
+    <string name="update_time">%1$s update</string>
+
+    <string name="fullscreen_transition_name" translatable="false">user_pic</string>
+    <string name="user_name_transition_name" translatable="false">user_name</string>
+
+    <!--精灵页面-->
+    <string name="mon_item_des_name" formatted="false" translatable="false"><Data><![CDATA[<b>
+    <font color=\'#a446e7\'>%s</font> <font color=\'#fecf5f\'>%s</font></b>]]></Data></string>
+    <string name="mon_user_des_name" formatted="false" translatable="false"><Data><![CDATA[<b>
+    <font color=\'#000000\'>%s</font> <small><font color=\'#9842d5\'>%s</font></small></b>]]></Data></string>
+    <string name="mon_invisible_name" translatable="false">\????</string>
+    <string name="mon_invisible_lv" translatable="false">**</string>
+    <string name="mon_level_des" translatable="false">Lv.%d</string>
+    <string name="mon_name_des" formatted="false"><Data><![CDATA[<b><font color=\'#666666\'>
+    Hi~Im </font> <font color=\'#a446e7\'>%s!</font></b>]]></Data></string>
+    <string name="no_wwid_title">Not paired yet</string>
+    <string name="no_wwid_content">Please pair with Ticwatch companion to use Step
+        Ranking app</string>
+
+    <string name="tic_mon_capture_hint" translatable="false">恭喜</string>
+    <string name="mon_capture_name_des" formatted="false"><Data><![CDATA[
+    <b><font color=\'#000000\'>你抓到了</font> <font color=\'#a446e7\'>%s</font>
+    <font color=\'#000000\'>!</font></b>]]></Data></string>
+    <string name="mon_capture_des" formatted="false" translatable="false"><Data><![CDATA[
+    <font color=\'#000000\'>截屏或拍下ticmon上传微博并</font>
+    <b><font color=\'#a446e7\'>@TicWatch</font></b><font color=\'#000000\'>,即可有机会获得</font><b>
+    <font color=\'#a446e7\'>精美表带</font></b><font color=\'#000000\'>
+    一支哦。</font>]]></Data></string>
+    <string name="capture_ticmon_tips">谁抓过它</string>
+    <string name="get_watch_face_hint">获得专属表盘</string>
+    <string name="download_watch_face">下载该表盘</string>
+    <string name="no_wwid_content_aw_android">Please download and\nlog into\n[Ticwatch] App\nto access ranking\ninformation</string>
+    <string name="no_wwid_content_aw_ios">Please download and\nconnect to\n[Ticwatch] App\nto access ranking\ninformation</string>
+    <string name="no_pair_device_content">Connect to \n\"Android Wear\" App\nto access\nranking information</string>
+</resources>

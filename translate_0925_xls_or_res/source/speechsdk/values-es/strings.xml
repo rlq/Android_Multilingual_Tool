@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_code_system_error">Error del sistema</string>
+    <string name="error_code_network_error">Error de red</string>
+    <string name="error_code_no_network">Compruebe su red</string>
+    <string name="error_code_device_error">Grabador no disponible</string>
+    <string name="error_code_no_speech">Perdóname</string>
+    <string name="error_code_long_speech">El habla es demasiado largo</string>
+    <string name="error_code_silence_too_long">No se detectó ninguna voz</string>
+    <string name="error_code_network_slow">Red lenta</string>
+
+    <string name="special_word_call">llamada</string>
+    <string name="special_word_sms">enviar mensaje a</string>
+    <string name="special_word_open">abierto</string>
+    <string name="special_word_close">cerca</string>
+
+    <string name="contact_not_found">No se puede encontrar el contacto, \n inténtalo de nuevo</string>
+    <string name="contact_usage_suggestion">Seleccione el contacto.</string>
+</resources>

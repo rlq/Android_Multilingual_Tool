@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_code_system_error">Erreur système</string>
+    <string name="error_code_network_error">Erreur de réseau</string>
+    <string name="error_code_no_network">Vérifiez votre réseau</string>
+    <string name="error_code_device_error">L\'enregistreur n\'est pas disponible</string>
+    <string name="error_code_no_speech">Excusez-moi</string>
+    <string name="error_code_long_speech">La parole est trop longue</string>
+    <string name="error_code_silence_too_long">Pas de détection de voix</string>
+    <string name="error_code_network_slow">Réseau lent</string>
+
+    <string name="special_word_call">appel</string>
+    <string name="special_word_sms">envoyer un message à</string>
+    <string name="special_word_open">ouvrir</string>
+    <string name="special_word_close">Fermer</string>
+
+    <string name="contact_not_found">Ne peut pas trouver le contact, \n essayez à nouveau</string>
+    <string name="contact_usage_suggestion">Sélectionnez le contact.</string>
+</resources>

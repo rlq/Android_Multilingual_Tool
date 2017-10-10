@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- units -->
+    <string name="miles">mi</string>
+    <string name="pounds">%d pounds</string>
+    <string name="lbs" translatable="false">lbs</string>
+    <string name="cm" translatable="false">cm</string>
+    <string name="kg" translatable="false">%dkg</string>
+    <string name="Health_information">Health information</string>
+    <string name="label_male">Male</string>
+    <string name="label_female">Female</string>
+    <string name="label_metric">Metric</string>
+    <string name="label_imperial">Imperial</string>
+    <string name="personal_info">Update Personal Info</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="birthday">Birthday</string>
+    <string name="label_weight">Weight</string>
+    <string name="label_height">Height</string>
+    <string name="label_unit">Unit</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_step_goal">Step Goal</string>
+    <string name="label_unit_title">Select Unit</string>
+    <string name="label_unit_metric">Metric</string>
+    <string name="label_unit_imperial">Imperial</string>
+    <string name="label_active_hour_start">Active hour range</string>
+    <string name="start_end_hour_formatter" translatable="false">%1$02d:00 - %2$02d:00</string>
+    <string name="set_active_hour_goal_failed">Unable to set active hour range. Please connect watch</string>
+    <string name="set_step_goal_failed">Unable to set step goal. Please connect watch</string>
+    <string name="choose_weight_hint">Set your weight for accurate health data</string>
+    <string name="choose_height_hint">Set your height for accurate health data</string>
+    <string name="step_des">%d steps</string>
+    <string name="step_goal_hint">Set your step goal</string>
+    <string name="next_step">Next step</string>
+    <string name="profile_tip">Please enter accurate personal information to ensure the precision of motion data</string>
+    <string name="jump_profile">Don\'t need it. Skip.</string>
+    <string name="finish_profile">Finish</string>
+    <string name="profile_head_permission_tips">Please allow Ticwatch to access your photos so you can update your profile picture</string>
+    <string name="health_update_success">update succeeded</string>
+</resources>

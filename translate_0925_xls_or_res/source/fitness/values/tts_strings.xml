@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--语音播报-->
+    <string name="dis">, distance </string>
+    <string name="time">, in </string>
+    <string name="pace">pace</string>
+    <string name="speed">speed</string>
+    <string name="total">, a total of </string>
+    <string name="heart"> heart rate </string>
+    <string name="calorie">, use up </string>
+    <string name="free">, complete </string>
+    <string name="perc">percent</string>
+
+    <string name="per">per</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="min">minute</string>
+    <string name="mins">minutes</string>
+    <string name="sec">second</string>
+    <string name="secs">seconds</string>
+    <string name="km">kilometer</string>
+    <string name="kms">kilometers</string>
+    <string name="km2">mile</string>
+    <string name="kms2">miles</string>
+    <string name="step">step</string>
+    <string name="steps">steps</string>
+    <string name="kcal">kilo calorie</string>
+    <string name="kcals">kilo calories</string>
+    <string name="beat">beat</string>
+    <string name="beats">beats</string>
+    <string name="group">group</string>
+    <string name="groups">groups</string>
+    <string name="be0">, you are in the </string>
+    <string name="be1">zone</string>
+
+    <string name="have">You have </string>
+    <string name="end"> is over </string>
+    <string name="target">Target completed </string>
+    <string name="avg">, average</string>
+    <string name="cur">, current</string>
+
+    <string name="run">ran</string>
+    <string name="run2">running</string>
+    <string name="walk">walked</string>
+    <string name="walk2">walking</string>
+    <string name="bike">cycled</string>
+    <string name="bike2">cycling</string>
+    <string name="train">trained</string>
+    <string name="train2">training</string>
+
+    <string name="begin">Let’s get started!</string>
+    <string name="pause">Activity has been paused.</string>
+    <string name="auto">Activity has been automatically paused.</string>
+
+    <string name="settings_title">settings</string>
+    <string name="settings_tts">TTS Feedback</string>
+    <string name="settings_tts_on">On</string>
+    <string name="settings_tts_off">Off</string>
+    <string name="settings_freq">Feedback Frequency</string>
+    <string name="settings_gesture">Double Wrist Control</string>
+    <string name="settings_gesture_msg">Broadcast current activity data</string>
+    <string name="settings_help">Using help</string>
+    <string name="settings_help_res">1 Tic Sports provides feedback customized to the program you
+        selected and your goal settings.\n 2 There are two feedback modes: by distance or by time.
+        You can choose to receive audio feedback every 10 minutes or every 1 km.\n 3 Turn on milestone
+        feedback to have Tic Sports buzz related information to cheer you up when you complete percent
+        50 and 75 of your workout.</string>
+    <string name="settings_version">Version：%s</string>>
+    <string name="settings_version_res">Click to view details</string>>
+
+    <string name="and">and</string>
+    <string name="p">point</string>
+    <string name="zero">zero</string>
+    <string name="one1">one</string>
+    <string name="two1">two</string>
+    <string name="three1">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="nine">nine</string>
+    <string name="ten">ten</string>
+    <string name="eleven">eleven</string>
+    <string name="twelve">twelve</string>
+    <string name="thirteen">thirteen</string>
+    <string name="fourteen">fourteen</string>
+    <string name="fifteen">fifteen</string>
+    <string name="sixteen">sixteen</string>
+    <string name="seventeen">seventeen</string>
+    <string name="eighteen">eighteen</string>
+    <string name="nineteen">nineteen</string>
+    <string name="twenty">twenty</string>
+    <string name="thirty">thirty</string>
+    <string name="forty">forty</string>
+    <string name="fifty">fifty</string>
+    <string name="sixty">sixty</string>
+    <string name="seventy">seventy</string>
+    <string name="eighty">eighty</string>
+    <string name="ninety">ninety</string>
+    <string name="hundred">hundred</string>
+    <string name="thousand">thousand</string>
+    <string name="wan"></string>
+</resources>

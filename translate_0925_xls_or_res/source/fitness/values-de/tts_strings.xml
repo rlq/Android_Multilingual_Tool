@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--语音播报-->
+    <string name="dis">Entfernung</string>
+    <string name="time">in</string>
+    <string name="pace">Pace</string>
+    <string name="speed">Geschwindigkeit</string>
+    <string name="total">insgesamt</string>
+    <string name="heart">Herzfrequenz</string>
+    <string name="calorie">verbrauchen</string>
+    <string name="free">komplett</string>
+    <string name="perc">Prozent</string>
+
+    <string name="per">pro</string>
+    <string name="hour">Stunde</string>
+    <string name="hours">Stunden</string>
+    <string name="min">Minute</string>
+    <string name="mins">Minuten</string>
+    <string name="sec">Sekunde</string>
+    <string name="secs">Sekunden</string>
+    <string name="km">Kilometer</string>
+    <string name="kms">Kilometer</string>
+    <string name="km2">Meile</string>
+    <string name="kms2">Meilen</string>
+    <string name="step">Schritt</string>
+    <string name="steps">Schritte</string>
+    <string name="kcal">Kilokalorie</string>
+    <string name="kcals">Kilokalorien</string>
+    <string name="beat">Schlag</string>
+    <string name="beats">Schläge</string>
+    <string name="group">Gruppe</string>
+    <string name="groups">Gruppen</string>
+    <string name="be0">Sie sind in der</string>
+    <string name="be1">Zone</string>
+
+    <string name="have">Sie haben</string>
+    <string name="end">ist vorbei</string>
+    <string name="target">Ziel abgeschlossen</string>
+    <string name="avg">Durchschnitt</string>
+    <string name="cur">aktuell</string>
+
+    <string name="run">lief</string>
+    <string name="run2">Läuft</string>
+    <string name="walk">ging</string>
+    <string name="walk2">geht</string>
+    <string name="bike">zyklisch</string>
+    <string name="bike2">Radfahren</string>
+    <string name="train">trainiert</string>
+    <string name="train2">Training</string>
+
+    <string name="begin">Lassen Sie uns anfangen!</string>
+    <string name="pause">Aktivität wurde pausiert.</string>
+    <string name="auto">Aktivitäten wurden automatisch pausiert.</string>
+
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_tts">TTS Rückgespräch</string>
+    <string name="settings_tts_on">An</string>
+    <string name="settings_tts_off">Aus</string>
+    <string name="settings_freq">Rückmeldungsfrequenz</string>
+    <string name="settings_gesture">Doppelte Handgelenksteuerung</string>
+    <string name="settings_gesture_msg">Übertragen aktueller Aktivitätsdaten</string>
+    <string name="settings_help">Hilfe verwenden</string>
+    <string name="settings_help_res" formatted="false">1 Tic Sports bietet Rückmeldungen, die an das Programm,
+        das Sie ausgewählt haben, und an Ihre Zieleinstellungen angepasst sind. \n2 Es gibt zwei Rückmeldemodi: nach Entfernung oder nach Zeit. Sie können wählen, wann Sie Audio-Feedback erhalten möchten -
+        alle 10 Minuten oder jeweils nach 1 km. \n3 Schalten Sie das Meilenstein-Feedback ein, damit Sie Informationen,
+        die mit Tic Sports buzz zu tun haben, erhalten, um Sie aufzumuntern, wenn Sie 50% und 75% Ihres Trainings beenden."
+    </string>
+
+    <string name="settings_version">Version: </string>
+    <string name="settings_version_res">Klicken Sie hier, um Details anzuschauen</string>
+
+    <string name="and">und</string>
+    <string name="p">Punkt</string>
+    <string name="zero">Null</string>
+    <string name="one1">eins</string>
+    <string name="two1">zwei</string>
+    <string name="three1">drei</string>
+    <string name="four">vier</string>
+    <string name="five">fünf</string>
+    <string name="six">sechs</string>
+    <string name="seven">sieben</string>
+    <string name="eight">acht</string>
+    <string name="nine">neun</string>
+    <string name="ten">zehn</string>
+    <string name="eleven">elf</string>
+    <string name="twelve">zwölf</string>
+    <string name="thirteen">dreizehn</string>
+    <string name="fourteen">vierzehn</string>
+    <string name="fifteen">fünfzehn</string>
+    <string name="sixteen">sechszehn</string>
+    <string name="seventeen">siebzehn</string>
+    <string name="eighteen">achtzehn</string>
+    <string name="nineteen">neunzehn</string>
+    <string name="twenty">zwanzig</string>
+    <string name="thirty">dreißig</string>
+    <string name="forty">vierzig</string>
+    <string name="fifty">fünfzig</string>
+    <string name="sixty">sechzig</string>
+    <string name="seventy">siebzig</string>
+    <string name="eighty">achtzig</string>
+    <string name="ninety">neunzig</string>
+    <string name="hundred">hundert</string>
+    <string name="thousand">tausend</string>
+    <string name="wan"></string>
+</resources>

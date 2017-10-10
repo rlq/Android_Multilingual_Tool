@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--info-->
+    <string name="app_name">Fitness</string>
+    <string name="permission_label">Zugriff auf aktuelle Fitness-Daten</string>
+    <string name="info_tips">Bitte geben Sie Ihre Daten ein, um die \n Bewegungsdaten genauer zu machen</string>
+    <string name="sex_label">Geschlecht</string>
+    <string name="sex_male">Männlich</string>
+    <string name="sex_female">Weiblich</string>
+    <string name="birth_label">Geburtsjahr</string>
+    <string name="height_label">Größe (cm)</string>
+    <string name="height_inch_label">Größe (ft)</string>
+    <string name="weight_label">Gewicht (kg)</string>
+    <string name="weight_pound_label">Gewicht (lb)</string>
+
+    <!--fitness list-->
+    <string-array name="exercise">
+        <item name="exercise0">Im Freien laufen</item>
+        <item name="exercise1">Spaziergang</item>
+        <item name="exercise2">Drinnen laufen</item>
+        <item name="exercise3">Radfahren</item>
+        <item name="exercise4">Free Style</item>
+    </string-array>
+
+    <string name="enable_collection">Sammlung öffnen</string>
+    <string name="disable_collection">Sammlung schließen</string>
+    <string name="input_format_error">Falsches Eingabeformat</string>
+    <string name="ground_truth_input_title">Ground Truth</string>
+    <string name="ground_truth_input_msg">Die Ist-Entfernung und Schrittzahl eingeben. Im Zweifelsfall das Feld leer lassen.</string>
+    <string name="distance_input_hint">Entfernung (%s)</string>
+    <string name="steps_input_hint">Schrittzahl</string>
+
+    <string name="label_kilo_max">Bestleistung: %skm</string>
+    <string name="label_miles_max">Bestleistung: %smiles</string>
+    <string name="label_calorie_max">Bestleistung: %1$dkcal</string>
+    <string name="label_step_max">Bestleistung: %1$dstep</string>
+    <string name="label_time_max">Bestleistung: %1$dmin</string>
+    <string name="label_group_max">Bestleistung: %1$d</string>
+    <string name="target_value"><large>%s</large><small>:%s</small></string>
+
+    <string name="start_des">Wischen Sie nach links, um \n Ihren Verlaufsdatensatz anzuzeigen</string>
+    <string name="sport_bestDes"><big>Lassen Sie uns anfangen!</big></string>
+
+    <string name="upgrade_notify_ticwatch">Bitte aktualisieren Sie die Ticwatch App, um Ihre neuen Fitnessdaten anzuschauen.</string>
+    <string name="upgrade_notify_ticwear">Bitte aktualisieren Sie die Ticwear App, um Ihre neuen Fitnessdaten anzuschauen.</string>
+    <string name="permission_rationale_notify">Der Datenerhebungsmodus benötigt die Genehmigung zum Schreiben der SD-Karte.</string>
+    <string name="permission_setting_explain">Aktivieren Sie in den Einstellungen GPS und den HR-Sensor, um Ihre Route und Herzfrequenz zu verfolgen.</string>
+    <string name="storage_permission_rationale_notify">Der Datenerfassungsmodus benötigt eine Genehmigung zum Schreiben von Daten auf die SD-Karte.</string>
+    <string name="storage_permission_settings_explain">Die Datenerhebung benötigt die Erlaubnis zum Schreiben der SD-Karte. </string>
+
+    <!--history-->
+    <string name="history_title">Fitness-Verlauf</string>
+    <string name="history_finish">Komplett</string>
+    <string name="history_none">Keine Aufzeichnungen. Lassen Sie uns anfangen!</string>
+
+    <!--target-->
+    <string name="target_none">Kein Ziel</string>
+    <string name="value_none">Los</string>
+    <string name="multi_day_label">(+%1$d)</string>
+    <string name="start">Los</string>
+    <string name="target_unset">Ziel nicht gesetzt</string>
+
+    <!--gps-->
+    <string name="gps_des">Bitte stationär bleiben. Diesen Schritt überspringenVerlust der Streckenverfolgung</string>
+    <string name="gps_prepared_des">Als nächstes wählen Sie Ziel und starten Sie Ihren Sport</string>
+    <string name="gps_fail_des">Bitte bleiben Sie in einem offenen Bereich still stehen. Diesen Schritt überspringenVerlust der Streckenverfolgung</string>
+    <string name="gps_fail">GPS konnte nicht gesperrt werden</string>
+    <string name="gps_working">GPS wird gesperrt ...</string>
+    <string name="gps_prepared">GPS ist vorbereitet</string>
+    <string name="gps_skip">Überspringen</string>
+    <string name="gps_dialog_des">Bitte bleiben Sie stationär und warten Sie auf die GPS-Sperre. Andernfalls könnten Sie die Streckenverfolgung verlieren.</string>
+    <string name="gps_dialog_watch1">Es wird kein GPS-Modul erkannt. Bitte mit dem Telefon verbinden, damit die Fitnessroute erfasst werden kann.</string>
+    <string name="gps_dialog_phone">Trennen Sie Smartphone oder schalten Sie das GPS des Handys an. Greifen Sie auf Ihren Standort zu für den Fitness-Route-Recorder. Es wird nicht gespeichert.</string>
+
+    <string name="gps_dialog_air">Ihre Uhr hat den Flugzeug-Modus aktiviert. Verlassen Sie den Flugzeugmodus, um Fitnessrouten-Aufzeichnungen zu speichern und synchronisieren.</string>
+    <string name="gps_dialog_wear_gps">Schalten Sie das GPS ein, damit die Fitnessroute erfasst werden kann.</string>
+    <string name="gps_dialog_block_permission">Bitte geben Sie die GPS-Erlaubnis an. Bitte geben Sie die Erlaubnis, damit die Fitnessroute erfasst werden kann.</string>
+    <string name="gps_dialog_other">GPS-Suchfehler. Bitte starten Sie die Fitness-App neu, damit die Fitness-Route erfasst werden kann.</string>
+
+    <string name="gps_go">Los</string>
+    <string name="gps_close">Verlassen</string>
+    <string name="gps_air">Schalten Sie den Flugzeugmodus aus</string>
+    <string name="gps_on">GPS einschalten</string>
+
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <!--running-->
+    <string name="title_activity_running">Läuft</string>
+    <string name="work_stop">Zum Beenden gedrückt halten</string>
+    <string name="work_stop_des">%s Wollen Sie es beenden?</string>
+    <string name="work_stop_time">Der Workout ist zu kurz, um gespeichert zu werden.</string>
+    <string name="work_stop_point">In diesem Workout wurden keine Daten erfasst.</string>
+    <string name="work_gps_inactive">Von Telefon getrennt, daher ist GPS nicht verfügbar.</string>
+
+    <!--free train-->
+    <string name="free_work_pause">Einstellung pausieren %s</string>
+    <string name="free_work_start">Setzen Sie keine %s</string>
+
+    <!--result-->
+    <string name="finish_percent_label">%1$s Abgeschlossen %2$s</string>
+    <string name="save">Speichern</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_des">Möchten Sie diese Daten löschen?</string>
+    <string name="detai_des">Detaildaten</string>
+
+    <!--notification-->
+    <string name="notification_text">%1$s %2$s \nTippen, um zurückzukehren</string>
+    <string name="notification_running">...</string>
+    <string name="notification_pause">pausiert</string>
+    <string name="notification_preparing">Vorbereitung ...</string>
+    <string name="countdown_des">Bitte ziehen Sie die Uhr an Ihrem Handgelenk fest, um genaue HR-Ergebnisse zu erhalten.</string>
+    <string name="auto_pause">auto pause</string>
+
+</resources>

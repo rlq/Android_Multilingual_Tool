@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--info-->
+    <string name="app_name"></string>
+    <string name="permission_label"></string>
+    <string name="info_tips"></string>
+    <string name="sex_label"></string>
+    <string name="sex_male"></string>
+    <string name="sex_female"></string>
+    <string name="birth_label"></string>
+    <string name="height_label"></string>
+    <string name="height_inch_label"></string>
+    <string name="weight_label"></string>
+    <string name="weight_pound_label"></string>
+
+    <!--fitness list-->
+    <string-array name="exercise">
+        <item name="exercise0"></item>
+        <item name="exercise1"></item>
+        <item name="exercise2"></item>
+        <item name="exercise3"></item>
+        <item name="exercise4"></item>
+    </string-array>
+
+    <string name="enable_collection"></string>
+    <string name="disable_collection"></string>
+    <string name="input_format_error"></string>
+    <string name="ground_truth_input_title"></string>
+    <string name="ground_truth_input_msg"></string>
+    <string name="distance_input_hint"></string>
+    <string name="steps_input_hint"></string>
+
+    <string name="label_kilo_max"></string>
+    <string name="label_miles_max"></string>
+    <string name="label_calorie_max"></string>
+    <string name="label_step_max"></string>
+    <string name="label_time_max"></string>
+    <string name="label_group_max"></string>
+    <string name="target_value"></string>
+
+    <string name="start_des"></string>
+    <string name="sport_bestDes"></string>
+
+    <string name="upgrade_notify_ticwatch"></string>
+    <string name="upgrade_notify_ticwear"></string>
+    <string name="permission_rationale_notify"></string>
+    <string name="permission_setting_explain"></string>
+    <string name="storage_permission_rationale_notify"></string>
+    <string name="storage_permission_settings_explain"></string>
+
+    <!--history-->
+    <string name="history_title"></string>
+    <string name="history_finish"></string>
+    <string name="history_none"></string>
+
+    <!--target-->
+    <string name="target_none"></string>
+    <string name="value_none"></string>
+    <string name="multi_day_label"></string>
+    <string name="start"></string>
+    <string name="target_unset"></string>
+
+    <!--gps-->
+    <string name="gps_des"></string>
+    <string name="gps_prepared_des"></string>
+    <string name="gps_fail_des"></string>
+    <string name="gps_fail"></string>
+    <string name="gps_working"></string>
+    <string name="gps_prepared"></string>
+    <string name="gps_skip"></string>
+    <string name="gps_dialog_des"></string>
+    <string name="gps_dialog_watch1"></string>
+    <string name="gps_dialog_phone"></string>
+
+    <string name="gps_dialog_air"></string>
+    <string name="gps_dialog_wear_gps"></string>
+    <string name="gps_dialog_block_permission"></string>
+    <string name="gps_dialog_other"></string>
+
+    <string name="gps_go"></string>
+    <string name="gps_close"></string>
+    <string name="gps_air"></string>
+    <string name="gps_on"></string>
+
+    <string name="three"></string>
+    <string name="two"></string>
+    <string name="one"></string>
+
+    <!--running-->
+    <string name="title_activity_running"></string>
+    <string name="work_stop"></string>
+    <string name="work_stop_des"></string>
+    <string name="work_stop_time"></string>
+    <string name="work_stop_point"></string>
+    <string name="work_gps_inactive"></string>
+
+    <!--free train-->
+    <string name="free_work_pause"></string>
+    <string name="free_work_start"></string>
+
+    <!--result-->
+    <string name="finish_percent_label"></string>
+    <string name="save"></string>
+    <string name="delete"></string>
+    <string name="delete_des"></string>
+    <string name="detai_des"></string>
+
+    <!--notification-->
+    <string name="notification_text"></string>
+    <string name="notification_running"></string>
+    <string name="notification_pause"></string>
+    <string name="notification_preparing"></string>
+    <string name="countdown_des"></string>
+    <string name="auto_pause"></string>
+
+</resources>

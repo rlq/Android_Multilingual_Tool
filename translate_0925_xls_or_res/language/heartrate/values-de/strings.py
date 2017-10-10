@@ -1,0 +1,18 @@
+{
+    'app_label': r""" Herzfrequenz """,
+    'setting': r""" Einstellungen """,
+    'heart_rate_number': r""" Herzfrequenzdaten """,
+    'settings_version': r""" Version: %s """,
+    'settings_version_res': r""" Klicken Sie hier, um Details anzuschauen """,
+    'heart_rate_preparing': r""" Bereiten Sie sich auf den Test vor """,
+    'heart_rate_click': r""" Tippen Sie auf das Herz, um den Test erneut auszuführen """,
+    'heart_rate_testing': r""" Testet """,
+    'heart_rate_test_tips': r""" Versuchen Sie ruhig zu bleiben """,
+    'heart_rate_test_failed': r""" Der Test ist fehlgeschlagen """,
+    'heart_rate_test_again': r""" Drücken Sie Ticwatch an Ihr Handgelenk und versuchen Sie es erneut. """,
+    'permission_rationale_notify': r""" Wird der HR-Sensor deaktiviert, kann die App nicht arbeiten.Wollen Sie sie aktivieren? """,
+    'permission_setting_explain': r""" Aktivieren Sie den HR-Sensor in den Einstellungen, um Ihre Herzfrequenz zu verfolgen """,
+    'history_number': r""" Verlaufsaufzeichnungen """,
+    'heart_rate_number_picker': r""" Artikel """,
+    'heart_rate_test_tip': r""" Der Herzfrequenz-Test kann im aufgeladenen Zustand nicht durchgeführt werden! """,
+}

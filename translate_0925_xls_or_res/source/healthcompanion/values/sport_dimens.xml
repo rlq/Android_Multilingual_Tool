@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="health_common_space_tiny">5dp</dimen>
+    <dimen name="health_common_space_small">8dp</dimen>
+
+    <dimen name="health_text_size_xlarge">36sp</dimen>
+    <dimen name="health_text_size_huge">24sp</dimen>
+    <dimen name="health_text_size_large">20sp</dimen>
+    <dimen name="health_text_size_middle">16sp</dimen>
+    <dimen name="health_text_size_small">14sp</dimen>
+    <dimen name="health_text_size_tiny">12sp</dimen>
+
+
+    <dimen name="health_sport_list_timeline_stroke">2dp</dimen>
+    <dimen name="health_sport_list_timeline_space_width">35dp</dimen>
+
+    <dimen name="health_sport_list_item_icon_size">25dp</dimen>
+    <dimen name="health_sport_list_item_unit_text_size">10sp</dimen>
+    <dimen name="health_sport_list_percent_width_height">20dp</dimen>
+    <dimen name="health_sport_item_height">60dp</dimen>
+    <dimen name="health_sport_list_item_margin_left_right">25dp</dimen>
+    <dimen name="health_sport_list_item_margin_top_bottom">20dp</dimen>
+    <dimen name="health_sport_button_history_height">45dp</dimen>
+    <dimen name="health_sport_list_item_radius">23dp</dimen>
+    <dimen name="health_sport_list_item_zero">0dp</dimen>
+
+    <dimen name="health_sport_detail_margin_left_right_large">20dp</dimen>
+    <dimen name="health_sport_detail_margin_left_right_small">6dp</dimen>
+    <dimen name="health_sport_detail_margin_top_bottom_large">40dp</dimen>
+    <dimen name="health_sport_detail_margin_top_bottom_small">14dp</dimen>
+    <dimen name="health_sport_detail_area_margin_top">10dp</dimen>
+
+    <dimen name="health_sport_detail_value_text_size">30sp</dimen>
+    <dimen name="health_sport_detail_value_large_text_size">40sp</dimen>
+
+    <dimen name="health_sport_calendar_week_height">20dp</dimen>
+    <dimen name="health_sport_calendar_cell_height">36dp</dimen>
+    <dimen name="health_sport_calendar_cell_interval">5dp</dimen>
+    <!-- sport detail section feature_v2-->
+    <dimen name="health_sport_detail_text_view_width">60dp</dimen>
+    <dimen name="health_sport_detail_text_size_small">10dp</dimen>
+    <dimen name="health_sport_detail_text_size_large">18dp</dimen>
+    <dimen name="health_sport_detail_data_stroke_width">2dp</dimen>
+    <dimen name="health_sport_detail_info_stroke_width">1dp</dimen>
+    <dimen name="health_sport_detail_rate_height">20dp</dimen>
+    <dimen name="health_sport_detail_pace_height">20dp</dimen>
+    <dimen name="health_sport_detail_speed_height">30dp</dimen>
+    <dimen name="health_sport_detail_pace_interval">10dp</dimen>
+    <dimen name="health_sport_detail_training_height">20dp</dimen>
+    <dimen name="health_sport_detail_training_rest_height">15dp</dimen>
+    <dimen name="health_sport_detail_training_internal_interval">3dp</dimen>
+    <dimen name="health_sport_detail_training_group_interval">12dp</dimen>
+    <dimen name="health_sport_detail_dialog_height">320dp</dimen>
+    <dimen name="health_sport_detail_dialog_top_height">150dp</dimen>
+    <dimen name="health_sport_detail_dialog_padding">10dp</dimen>
+    <dimen name="health_sport_detail_dialog_padding_large">20dp</dimen>
+    <dimen name="health_sport_detail_stride_height">140dp</dimen>
+    <dimen name="health_sport_detail_info_icon_padding">3dp</dimen>
+    <dimen name="health_sport_detail_percent_height">60dp</dimen>
+
+    <dimen name="health_sport_share_width_name">90dp</dimen>
+    <dimen name="health_sport_share_width_value">80dp</dimen>
+    <dimen name="health_sport_share_width_value_small">64dp</dimen>
+    <dimen name="health_sport_share_width_unit_small">56dp</dimen>
+
+    <!-- sport share section feature_v2-->
+    <dimen name="health_sport_share_padding">10dp</dimen>
+    <dimen name="health_sport_share_margin">10dp</dimen>
+    <dimen name="health_sport_share_middle_margin">30dp</dimen>
+    <dimen name="health_sport_share_drawable_padding">10dp</dimen>
+    <dimen name="health_sport_share_drawable_width">60dp</dimen>
+    <dimen name="health_sport_share_drawable_paddingTop">15dp</dimen>
+    <dimen name="health_sport_share_zero">0dp</dimen>
+    <dimen name="health_sport_share_route_height">120dp</dimen>
+    <dimen name="health_sport_share_content_height">300dp</dimen>
+    <dimen name="health_sport_share_part_line_height">40dp</dimen>
+    <dimen name="health_sport_share_part_line_width">2dp</dimen>
+    <dimen name="health_sport_share_map_width_height">100dp</dimen>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_code_system_error"></string>
+    <string name="error_code_network_error"></string>
+    <string name="error_code_no_network"></string>
+    <string name="error_code_device_error"></string>
+    <string name="error_code_no_speech"></string>
+    <string name="error_code_long_speech"></string>
+    <string name="error_code_silence_too_long"></string>
+    <string name="error_code_network_slow"></string>
+
+    <string name="special_word_call"></string>
+    <string name="special_word_sms"></string>
+    <string name="special_word_open"></string>
+    <string name="special_word_close"></string>
+
+    <string name="contact_not_found"></string>
+    <string name="contact_usage_suggestion"></string>
+</resources>

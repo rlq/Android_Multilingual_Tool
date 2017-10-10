@@ -1,0 +1,28 @@
+<resources>
+    <string name="feedback_hint"></string>
+    <string name="feedback_add_picture"></string>
+    <string name="feedback_email_title"></string>
+    <string name="feedback_email_hint"></string>
+    <string name="feedback_phone_title"></string>
+    <string name="feedback_phone_hint"></string>
+    <string name="feedback_submit"></string>
+    <string name="feedback_description_empty"></string>
+    <string name="feedback_invalid_email"></string>
+    <string name="feedback_invalid_phone"></string>
+    <string name="feedback_description_length"></string>
+    <string name="no_camera_app_found"></string>
+    <string name="feedback_img_select_dialog_title"></string>
+    <string name="feedback_select_pic_take_photo"></string>
+    <string name="feedback_select_pic_from_gallery"></string>
+    <string name="feedback_upload_success"></string>
+    <string name="feedback_upload_fial"></string>
+    <string name="type_list_tips_multiple"></string>
+    <string name="type_list_tips_single"></string>
+    <string name="feedback_type_error"></string>
+    <string name="feedback_upload_wait_msg"></string>
+    <string name="feedback"></string>
+    <string name="image_picker_next"></string>
+    <string name="image_picker"></string>
+    <string name="image_picker_exceed"></string>
+
+</resources>

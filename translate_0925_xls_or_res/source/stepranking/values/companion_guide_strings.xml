@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_explain">Please install %s App to access Step Ranking information.</string>
+    <string name="login_explain">Please login in %s App to access Step Ranking information.</string>
+    <string name="companion_le_name" translatable="false">出门问问</string>
+    <string name="companion_oversea_name" translatable="false">Ticwatch</string>
+</resources>

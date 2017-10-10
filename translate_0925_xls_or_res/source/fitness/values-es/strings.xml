@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--info-->
+    <string name="app_name">Fitness</string>
+    <string name="permission_label">Acceda a los datos actuales de fitness</string>
+    <string name="info_tips">Por favor, ingrese sus datos para hacer los \n datos de movimiento más precisos</string>
+    <string name="sex_label">Sexo</string>
+    <string name="sex_male">Macho</string>
+    <string name="sex_female">Mujer</string>
+    <string name="birth_label">Nacimiento</string>
+    <string name="height_label">Altura (cm)</string>
+    <string name="height_inch_label">Altura (pies)</string>
+    <string name="weight_label">Peso (kg)</string>
+    <string name="weight_pound_label">Peso (lb)</string>
+
+    <!--fitness list-->
+    <string-array name="exercise">
+        <item name="exercise0">Outdoor Run</item>
+        <item name="exercise1">Outdoor Walk</item>
+        <item name="exercise2">Indoor Run</item>
+        <item name="exercise3">Cycling</item>
+        <item name="exercise4">Free Style</item>
+    </string-array>
+
+    <string name="enable_collection">Caminata al aire libre</string>
+    <string name="disable_collection">Correr en el interior</string>
+    <string name="input_format_error">Formato de entrada incorrecto</string>
+    <string name="ground_truth_input_title">Verdad terreno</string>
+    <string name="ground_truth_input_msg">Introduzca la distancia real y el recuento de pasos. Dejelo en blanco si no está seguro.</string>
+    <string name="distance_input_hint">Distancia (%s)</string>
+    <string name="steps_input_hint">Pasos se cuentan</string>
+
+    <string name="label_kilo_max">Mejor: %skm</string>
+    <string name="label_miles_max">Mejor: %sonrisas</string>
+    <string name="label_calorie_max">Mejor: %1$dkcal</string>
+    <string name="label_step_max">Mejor: %1$dstep</string>
+    <string name="label_time_max">Mejor: %1$dmin</string>
+    <string name="label_group_max">Mejor: %1$d</string>
+    <string name="target_value"><large>%s</large><small>:%s</small></string>
+
+    <string name="start_des">Desliza el dedo hacia la \n izquierda para ver tu historial</string>
+    <string name="sport_bestDes"><big>¡Empecemos!</big></string>
+
+    <string name="upgrade_notify_ticwatch">Actualice la aplicación Ticwatch para ver sus nuevos datos de aptitud.</string>
+    <string name="upgrade_notify_ticwear">Actualice la aplicación Ticwear para ver sus nuevos datos de aptitud.</string>
+    <string name="permission_rationale_notify">Desactivar el sensor de GPS y HR no permitirá funciones de rastreo y HR.</string>
+    <string name="permission_setting_explain">Active el sensor GPS y HR en Configuración para realizar un seguimiento de la ruta y la frecuencia cardíaca.</string>
+    <string name="storage_permission_rationale_notify">El modo de recopilación de datos necesita permiso para escribir datos en la tarjeta SD.</string>
+    <string name="storage_permission_settings_explain">Recolección de datos necesita permiso para escribir en la tarjeta SD.</string>
+
+    <!--history-->
+    <string name="history_title">Historial Fitness</string>
+    <string name="history_finish">Completar</string>
+    <string name="history_none">No hay registro. ¡Empecemos!</string>
+
+    <!--target-->
+    <string name="target_none">Sin objetivo</string>
+    <string name="value_none">Ir</string>
+    <string name="multi_day_label">(+%1$d)</string>
+    <string name="start">Ir</string>
+    <string name="target_unset">Objetivo no establecido</string>
+
+    <!--gps-->
+    <string name="gps_des">Permanezca inmóvil. Omitir este paso podría causar la pérdida del seguimiento de la ruta.</string>
+    <string name="gps_prepared_des">A continuación, seleccione el objetivo e inicie su deporte</string>
+    <string name="gps_fail_des">Por favor ,permanezca inmóvil en un área abierta. Guardar ruta de seguimiento.</string>
+    <string name="gps_fail">Error al bloquear el GPS</string>
+    <string name="gps_working">Bloqueand GPS ...</string>
+    <string name="gps_prepared">GPS preparado</string>
+    <string name="gps_skip">Omitir</string>
+    <string name="gps_dialog_des">Por favor, permanezca inmóvil y espere a que se bloquee el GPS. Se utiliza para guardar la ruta de acceso.</string>
+    <string name="gps_dialog_watch1">No se ha detectado ningún módulo GPS. Se utiliza para guardar la ruta de acceso.</string>
+    <string name="gps_dialog_phone">Desconecte el teléfono o encienda el dispositivo móvil, se utiliza para guardar la ruta de acceso.</string>
+
+    <string name="gps_dialog_air">Su reloj tiene activado el modo de avión. Se utiliza para guardar la ruta de acceso.</string>
+    <string name="gps_dialog_wear_gps">Encienda el GPS para poder capturar la ruta fitness de acondicionamiento.</string>
+    <string name="gps_dialog_block_permission">Por favor, dé el permiso GPS.  Se utiliza para guardar la ruta de acceso.</string>
+    <string name="gps_dialog_other">GPS búsqueda de error. Se utiliza para guardar la ruta de acceso.</string>
+
+    <string name="gps_go">Ir</string>
+    <string name="gps_close">Salida</string>
+    <string name="gps_air">Desactivar el modo de avión</string>
+    <string name="gps_on">Encender el GPS</string>
+
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <!--running-->
+    <string name="title_activity_running">Corriendo</string>
+    <string name="work_stop">pulsar para terminar</string>
+    <string name="work_stop_des">%s ¿Desea terminarlo?</string>
+    <string name="work_stop_time">El ejercicio es demasiado corto para guardar.</string>
+    <string name="work_stop_point">No hay datos capturados en este entrenamiento.</string>
+    <string name="work_gps_inactive">Desconectado del teléfono por lo tanto GPS no está disponible.</string>
+
+    <!--free train-->
+    <string name="free_work_pause">Pausa establecida %s</string>
+    <string name="free_work_start">No establecer %s</string>
+
+    <!--result-->
+    <string name="finish_percent_label">%1$s Completado %2$s</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Borrar</string>
+    <string name="delete_des">¿Eliminar estos datos?</string>
+    <string name="detai_des">Detalles de datos</string>
+
+    <!--notification-->
+    <string name="notification_text">%1$s %2$s \n tocar para volver</string>
+    <string name="notification_running">......</string>
+    <string name="notification_pause">Pausado</string>
+    <string name="notification_preparing">Preparando...</string>
+    <string name="countdown_des">Apriete el reloj en su muñeca para obtener una lectura precisa de sus datos de HR.</string>
+    <string name="auto_pause">auto pausa</string>
+
+</resources>

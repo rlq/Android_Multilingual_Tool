@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base text styles -->
+
+    <style name="HealthTextAppearance" parent="android:TextAppearance">
+        <item name="android:textColor">@color/health_text_primary</item>
+    </style>
+
+    <style name="HealthTextHuge" parent="HealthTextAppearance">
+        <item name="android:textSize">@dimen/health_text_size_huge</item>
+    </style>
+    <style name="HealthTextLarge" parent="HealthTextAppearance">
+        <item name="android:textSize">@dimen/health_text_size_large</item>
+    </style>
+    <style name="HealthTextMiddle" parent="HealthTextAppearance">
+        <item name="android:textSize">@dimen/health_text_size_middle</item>
+    </style>
+    <style name="HealthTextSmall" parent="HealthTextAppearance">
+        <item name="android:textSize">@dimen/health_text_size_small</item>
+    </style>
+    <style name="HealthTextTiny" parent="HealthTextAppearance">
+        <item name="android:textSize">@dimen/health_text_size_tiny</item>
+    </style>
+
+    <style name="HealthTextMiddle.Secondary">
+        <item name="android:textColor">@color/health_text_secondary</item>
+    </style>
+    <style name="HealthTextMiddle.Hint">
+        <item name="android:textColor">@color/health_text_hint</item>
+    </style>
+    <style name="HealthTextSmall.Secondary">
+        <item name="android:textColor">@color/health_text_secondary</item>
+    </style>
+    <style name="HealthTextSmall.Hint">
+        <item name="android:textColor">@color/health_text_hint</item>
+    </style>
+    <style name="HealthTextTiny.Secondary">
+        <item name="android:textColor">@color/health_text_secondary</item>
+    </style>
+
+
+    <!-- Specific text styles -->
+
+    <style name="HealthTextCardDate" parent="HealthTextSmall.Secondary"/>
+    <style name="HealthTextCardRunning" parent="HealthTextHuge"/>
+    <style name="HealthTextCardLoading" parent="HealthTextMiddle"/>
+
+    <style name="HealthTextCardUnit" parent="HealthTextTiny">
+        <item name="android:textColor">@color/health_text_unit_sport</item>
+        <item name="android:textSize">@dimen/health_sport_list_item_unit_text_size</item>
+    </style>
+    <style name="HealthTextCardCalorie" parent="HealthTextLarge">
+        <item name="android:textColor">@color/health_text_calorie</item>
+    </style>
+    <style name="HealthTextCardStep" parent="HealthTextLarge">
+        <item name="android:textColor">@color/health_text_step</item>
+    </style>
+    <style name="HealthTextCardDuration" parent="HealthTextLarge">
+        <item name="android:textColor">@color/health_text_duration</item>
+    </style>
+    <style name="HealthTextCardDistance" parent="HealthTextLarge">
+        <item name="android:textColor">@color/health_text_distance</item>
+    </style>
+
+    <style name="HealthTextDetailValue" parent="HealthTextAppearance">
+        <item name="android:textSize">@dimen/health_sport_detail_value_text_size</item>
+        <item name="android:textColor">@color/health_text_secondary</item>
+    </style>
+
+    <style name="HealthTextDetailValue.Large">
+        <item name="android:textSize">@dimen/health_sport_detail_value_large_text_size</item>
+        <item name="android:textColor">@color/health_text_secondary</item>
+    </style>
+
+    <style name="HealthTextRunningValue" parent="HealthTextDetailValue.Large">
+        <item name="android:textColor">@color/health_base_blue_light</item>
+    </style>
+
+    <style name="HealthTextDetailUnit" parent="HealthTextTiny">
+        <item name="android:textColor">@color/health_text_third</item>
+    </style>
+    <style name="HealthTextDetailUnit.Hint">
+        <item name="android:textColor">@color/health_text_hint</item>
+    </style>
+
+    <style name="HealthTextShareTitle" parent="HealthTextSmall">
+        <item name="android:textColor">@color/health_base_pink</item>
+    </style>
+
+    <style name="HealthTextShareDataType" parent="HealthTextTiny">
+        <item name="android:minWidth">@dimen/health_sport_share_width_name</item>
+        <item name="android:maxWidth">@dimen/health_sport_share_width_name</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">start</item>
+    </style>
+
+    <style name="HealthTextShareDataValue" parent="HealthTextHuge">
+        <item name="android:minWidth">@dimen/health_sport_share_width_value</item>
+        <item name="android:maxWidth">@dimen/health_sport_share_width_value</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">end</item>
+    </style>
+
+    <style name="HealthTextShareDataUnit" parent="HealthTextTiny">
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">start</item>
+    </style>
+
+    <style name="HealthTextShareDataValueSmall" parent="HealthTextMiddle">
+        <item name="android:minWidth">@dimen/health_sport_share_width_value_small</item>
+        <item name="android:maxWidth">@dimen/health_sport_share_width_value_small</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">end</item>
+    </style>
+
+    <style name="HealthTextShareDataUnitSmall" parent="HealthTextTiny">
+        <item name="android:minWidth">@dimen/health_sport_share_width_unit_small</item>
+        <item name="android:maxWidth">@dimen/health_sport_share_width_unit_small</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">start</item>
+    </style>
+
+</resources>

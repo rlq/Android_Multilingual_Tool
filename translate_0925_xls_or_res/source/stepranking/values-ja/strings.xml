@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">歩数ランキング</string>
+
+    <!--Entry-->
+    <string name="entry_tips_title">ヒント：</string>
+    <string name="entry_text_content">Ticwatchは統計情報のランキング用途であなたの位置情報を取得します。</string>
+    <string name="entry_enter">承認</string>
+    <string name="entry_decline">拒否</string>
+
+    <!--主页-->
+    <string name="near_rank">最近のランキング</string>
+    <string name="main_like_num">%1$d人があなたを気に入っています</string>
+    <string name="social_loading">ローディング中…</string>
+
+    <!--附近排行-->
+    <string name="nearby_ranklist">最近の</string>
+    <string name="back_to_top">ページ先頭へ戻る</string>
+    <string name="last_tips">アイテムなし</string>
+    <string name="connect_net">ネットワークに接続してください</string>
+
+    <!--点赞人-->
+    <string name="likes_people">あなたのような人</string>
+    <string name="back_to_top_like">ページ先頭へ戻る</string>
+
+    <!--点赞通知-->
+    <string name="social_set">通知設定</string>
+    <string name="like_notify_set">「いいね」通知</string>
+    <string name="on">可能にする</string>
+    <string name="off">無効にする</string>
+    <string name="like_notify_info_on">これを無効にすると通知を受領できません。</string>
+    <string name="like_notify_info_off">これを有効にすると通知を受領できます。</string>
+
+    <!--他人页面-->
+    <string name="user_like_tip">彼を気に入っている人物：</string>
+    <string name="no_rank">リストになし</string>
+    <string name="main_steps">%1$d歩</string>
+    <string name="main_rank">%1$d</string>
+    <string name="distance_m">%1$d分</string>
+    <string name="distance_km">%1$.1fキロメートル</string>
+    <string name="today">今日</string>
+    <string name="days_ago">%1$d日前</string>
+    <string name="today_steps">本日%1$d歩</string>
+    <string name="user_address_distance">%1$s away %2$s</string>
+    <string name="push_content">今日のランキングは%1$d、合計で%2$d件の「いいね」を受け取りました。</string>
+    <string name="push_title">ステップランキング通知</string>
+    <string name="push_open">アプリケーションを開く</string>
+    <string name="connect_net_content">「ネットワークが切断されました。情報にアクセスするにはWi-Fiまたはコンパニオンに接続してください。」</string>
+    <string name="mobile_network_permission_denial">「セルラデータのアクセス許可が拒否されました。有効にしますか？」</string>
+    <string name="mobile_network_permission_setting_explain">「セルラデータのアクセス許可が拒否されました。設定で有効にしますか？」</string>
+    <string name="location_permission_denial">「ネットワーク位置のアクセス許可が拒否されました。有効にしますか？」</string>
+    <string name="location_setting_explain"></string>
+    <string name="no_address_content">「位置情報を取得できませんでした。再試行してください。」</string>
+    <string name="net_fail_content">「ネットワークをリクエストできませんでした。再試行してください。」</string>
+    <string name="no_address_title"></string>
+    <string name="net_fail_title">エラー - >エラーが発生した場合は施行できません。</string>
+    <string name="connect_net_title">ネットワークなし</string>
+    <string name="rank_first_word"></string>
+    <string name="rank_last_word"></string>
+    <string name="update_time">%1$sの更新</string>
+
+
+    <!--精灵页面-->
+    <string name="mon_name_des" formatted="false"><Data><![CDATA[<b><font color=\'#666666\'>
+    Hi~Im </font> <font color=\'#a446e7\'>%s!</font></b>]]></Data></string>
+
+    <string name="no_wwid_title">未ペアリング</string>
+    <string name="no_wwid_content">ステップランキングアプリケーションを使用するにはTicwatchコンパニオンとペアリングしてください</string>
+
+
+    <string name="mon_capture_name_des" formatted="false"></string>
+
+    <string name="capture_ticmon_tips"></string>
+    <string name="get_watch_face_hint"></string>
+    <string name="download_watch_face"></string>
+    <string name="no_wwid_content_aw_android">「and\nlog into\n[Ticwatch] App\nto access ranking\ninformationをダウンロードしてください」</string>
+    <string name="no_wwid_content_aw_ios">APP -> App</string>
+    <string name="no_pair_device_content">「\n\"Android Wear\" App\nto access\nranking informationに接続する」</string>
+</resources>

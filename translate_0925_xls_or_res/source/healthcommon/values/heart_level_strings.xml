@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heart_level_rest">Resting</string>
+    <string name="heart_level_warm_up">Warm up</string>
+    <string name="heart_level_fat_burn">Fat burn</string>
+    <string name="heart_level_aerobic">Cardio</string>
+    <string name="heart_level_anagrobic">Anaerobic</string>
+    <string name="heart_level_dangerous">Dangerous!</string>
+
+    <string name="heart_level_rest_long">Resting</string>
+    <string name="heart_level_warm_up_long">Warm up</string>
+    <string name="heart_level_fat_burn_long">Fat burn</string>
+    <string name="heart_level_aerobic_long">Cardio</string>
+    <string name="heart_level_anagrobic_long">Anagrobic</string>
+    <string name="heart_level_dangerous_long">Dangerous</string>
+</resources>

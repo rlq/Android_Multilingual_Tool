@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_update">Auf Updates prüfen</string>
+    <string name="support">Unterstützung</string>
+    <string name="referral_bonus">Empfehlungsbonus</string>
+    <string name="about_ticwatch">Über Ticwatch</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="logout">ABMELDEN</string>
+    <string name="click_login">Klicken: um sich anzumelden</string>
+    <string name="version_des">Version:% s</string>
+    <string name="account_home">Konto Home</string>
+    <string name="nickname">Spitzname</string>
+    <string name="mobvoi_id">Mobvoi ID</string>
+
+    <string name="authorization">Genehmigung</string>
+
+
+    <string name="develop_notify_title">Entwicklermodus</string>
+    <string name="develop_notify_message">Der Entwicklermodus kann Debugprotokolle auf die SD-Karte schreiben. Den Entwicklermodus aktivieren?</string>
+    <string name="develop_notify_already_enabled">Bereits im Entwicklermodus</string>
+    <string name="develop_options">Entwickleroptionen</string>
+    <string name="develop_mode">Entwicklermodus</string>
+</resources>

@@ -1,0 +1,16 @@
+{
+    'error_code_system_error': r""" Erreur système """,
+    'error_code_network_error': r""" Erreur de réseau """,
+    'error_code_no_network': r""" Vérifiez votre réseau """,
+    'error_code_device_error': r""" L\'enregistreur n\'est pas disponible """,
+    'error_code_no_speech': r""" Excusez-moi """,
+    'error_code_long_speech': r""" La parole est trop longue """,
+    'error_code_silence_too_long': r""" Pas de détection de voix """,
+    'error_code_network_slow': r""" Réseau lent """,
+    'special_word_call': r""" appel """,
+    'special_word_sms': r""" envoyer un message à """,
+    'special_word_open': r""" ouvrir """,
+    'special_word_close': r""" Fermer """,
+    'contact_not_found': r""" Ne peut pas trouver le contact, \n essayez à nouveau """,
+    'contact_usage_suggestion': r""" Sélectionnez le contact. """,
+}

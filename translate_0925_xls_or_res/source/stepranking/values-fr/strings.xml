@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Classement des pas</string>
+
+    <!--Entry-->
+    <string name="entry_tips_title">Conseils :</string>
+    <string name="entry_text_content">Ticwatch obtiendra votre emplacement géographique pour le classement des statistiques.</string>
+    <string name="entry_enter">Autoriser</string>
+    <string name="entry_decline">Refuser</string>
+
+    <!--主页-->
+    <string name="near_rank">Classement local</string>
+    <string name="main_like_num">%1$d personnes comme vous</string>
+    <string name="social_loading">chargement…</string>
+
+    <!--附近排行-->
+    <string name="nearby_ranklist">A proximité</string>
+    <string name="back_to_top">Haut de page</string>
+    <string name="last_tips">Plus d’articles</string>
+    <string name="connect_net">Veuillez vous connecter au réseau</string>
+
+    <!--点赞人-->
+    <string name="likes_people">des personnes comme vous</string>
+    <string name="back_to_top_like">Haut de page</string>
+
+    <!--点赞通知-->
+    <string name="social_set">Réglages</string>
+    <string name="like_notify_set">Notification de mention j’aime</string>
+    <string name="on">Activé</string>
+    <string name="off">Désactivé</string>
+    <string name="like_notify_info_on">Lorsque vous le désactivez, vous ne recevrez pas la notification</string>
+    <string name="like_notify_info_off">Lorsque vous l’activez, vous recevrez la notification</string>
+
+    <!--他人页面-->
+    <string name="user_like_tip">Qui l’aime:</string>
+    <string name="no_rank">Pas sur la liste</string>
+    <string name="main_steps">%1$d pas</string>
+    <string name="main_rank">%1$d</string>
+    <string name="distance_m">%1$d  m</string>
+    <string name="distance_km">%1$.1f km</string>
+    <string name="today">Aujourd’hui</string>
+    <string name="days_ago">Il y a %1$d  jours</string>
+    <string name="today_steps">Aujourd’hui %1$d  pas</string>
+    <string name="user_address_distance">%1$s moins %2$s</string>
+    <string name="push_content">Votre classement dujour est %1$d et vous avez reçu %2$d mention(s) j’aime au total.</string>
+    <string name="push_title">Notification de classement de pas</string>
+    <string name="push_open">Ouvrir l’application</string>
+    <string name="connect_net_content">Réseau déconnecté. Connectez-vous au Wi-Fi ou à un compagnon pour accéder aux informations.</string>
+    <string name="mobile_network_permission_denial">L’autorisation de données cellulaires est refusée. L’activer ?</string>
+    <string name="mobile_network_permission_setting_explain">L’autorisation de données cellulaires est refusée. L’activer dans les paramètres ?</string>
+    <string name="location_permission_denial">L’autorisation de localisation du réseau est refusée. L’activer ?</string>
+    <string name="location_setting_explain">Dans la fenêtre des réglages, veuillez ouvrir la permission 《emplacement》 pour obtenir les informations de localisation</string>
+    <string name="no_address_content">Impossible d’obtenir des informations de localisation. Veuillez réessayer.</string>
+    <string name="net_fail_content">Impossible de demander un réseau. Veuillez réessayer.</string>
+    <string name="no_address_title">Aucune adresse</string>
+    <string name="net_fail_title">Request Failed</string>
+    <string name="connect_net_title">Pas de réseau</string>
+    <string name="rank_first_word"></string>
+    <string name="rank_last_word"></string>
+    <string name="update_time">mise à jour %1$d</string>
+
+
+    <!--精灵页面-->
+    <string name="mon_name_des" formatted="false"><Data>&lt;b&gt;&lt;font color=\’#666666\’&gt;Hi~Im &lt;/font&gt; &lt;font color=\’#a446e7\’&gt;%s!&lt;/font&gt;&lt;/b&gt;</Data></string>
+
+    <string name="no_wwid_title">Pas encore couplé</string>
+    <string name="no_wwid_content">Veuillez coupler avec Ticwatch compagnon pour utiliser l’application de classement de pas</string>
+
+
+    <string name="mon_capture_name_des" formatted="false"></string>
+
+    <string name="capture_ticmon_tips"></string>
+    <string name="get_watch_face_hint"></string>
+    <string name="download_watch_face"></string>
+    <string name="no_wwid_content_aw_android">Veuillez télécharger et log dans [Ticwatch]App pour accéder au classement information</string>
+    <string name="no_wwid_content_aw_ios">Please download and connect to [Ticwatch] App to access ranking information</string>
+    <string name="no_pair_device_content">Connect to "Android Wear" App to access ranking information</string>
+</resources>

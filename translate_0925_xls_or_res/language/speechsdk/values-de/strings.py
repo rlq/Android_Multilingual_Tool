@@ -1,0 +1,16 @@
+{
+    'error_code_system_error': r""" Systemfehler """,
+    'error_code_network_error': r""" Netzwerkfehler """,
+    'error_code_no_network': r""" Bitte überprüfen Sie Ihr Netzwerk """,
+    'error_code_device_error': r""" Recorder nicht verfügbar """,
+    'error_code_no_speech': r""" Entschuldigung """,
+    'error_code_long_speech': r""" Rede ist zu lang """,
+    'error_code_silence_too_long': r""" Keine Stimme erkannt """,
+    'error_code_network_slow': r""" Langsames Netzwerk """,
+    'special_word_call': r""" Anruf """,
+    'special_word_sms': r""" Stimme Informationen """,
+    'special_word_open': r""" öffnen """,
+    'special_word_close': r""" schließen """,
+    'contact_not_found': r""" Kann ich den Kontakt nicht finden, bitte versuche es erneut """,
+    'contact_usage_suggestion': r""" Bitte wählen Sie den Kontakt aus. """,
+}

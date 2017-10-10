@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dimentions for charging UI -->
+    <dimen name="charging_icon_margin_top">20dp</dimen>
+    <dimen name="charging_tic_icon_margin_bottom">42dp</dimen>
+    <dimen name="charging_battary_text_margin_top">52dp</dimen>
+    <dimen name="charging_battary_text_size">14sp</dimen>
+
+    <!-- EULA -->
+    <fraction name="eula_content_margin_top_percent">15%</fraction>
+    <fraction name="eula_content_margin_left_percent">15%</fraction>
+    <fraction name="eula_content_width_percent">70%</fraction>
+    <dimen name="eula_command_text_size">18sp</dimen>
+    <dimen name="eula_command_text_padding_bottom">8dp</dimen>
+    <dimen name="eula_text_size">16sp</dimen>
+    <dimen name="eula_text_padding_bottom">18dp</dimen>
+    <dimen name="eula_round_button_size">54dp</dimen>
+    <dimen name="eula_bottom_align_sheet_layout_height">88dp</dimen>
+</resources>

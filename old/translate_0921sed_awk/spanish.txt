@@ -1,0 +1,429 @@
+Fitness@Fitness
+Access current fitness data@Acceda a los datos actuales de fitness
+Please enter your data to make the \n movement data more accurate@Por favor  ingrese sus datos para hacer los datos de movimiento \n más precisos
+Sex@Sexo
+Male@Masculino
+Female@Femenino
+Birth (year)@Nacimiento(año)
+Height (cm)@Altura (cm)
+Height (ft)@Altura (pies)
+Weight (kg)@Peso (kg)
+Weight (lb)@Peso (lb)
+Outdoor Run
+Outdoor Walk
+Indoor Run
+Cycling
+Free Style@Correr al aire libre
+Open collection@Caminata al aire libre
+Close collection@Correr en el interior
+Incorrect input format@Formato de entrada incorrecto
+Ground Truth@Verdad terreno
+Input the actual distance and step counts. Leave it blank if not sure.@Introduzca la distancia real y el recuento de pasos. Dejelo en blanco si no está seguro.
+Distance(%s)@Distancia (% s)
+Step counts@Pasos se cuentan
+Best：%skm@Mejor:% skm
+Best：%smiles@Mejor:% sonrisas
+Best：%1$dkcal@Mejor:% 1 $ dkcal
+Best：%1$dstep@Mejor:% 1 $ dstep
+Best：%1$dmin@Mejor:% 1 $ dmin
+Best：%1$d@Mejor:% 1 $ d
+<large>%s</large><small>:%s</small>@<largo>% s </ pequeño> <pequeño>:% s </ pequeño>
+Swipe left to view \n your history record@Desliza el dedo hacia la izquierda para ver \n tu historial
+Let’s get started!@¡Empecemos!
+Please update Companion App to view your new fitness data.@Actualice la aplicación Companion para ver sus nuevos datos de aptitud.
+Disabling GPS and HR sensor will not allow trace and HR functions. Want to enable them?@Desactivar el sensor de GPS y HR no permitirá funciones de rastreo y HR. ¿Desea habilitarlos?
+Enable GPS and HR sensor in Settings to track your route and heart rate.@Active el sensor GPS y HR en Configuración para realizar un seguimiento de la ruta y la frecuencia cardíaca.
+Data collect mode needs permission to write data to SD Card. Want to enable it?@El modo de recopilación de datos necesita permiso para escribir datos en la tarjeta SD. ¿Desea habilitarlo?
+Data collect needs permission to write SD Card. Want to enable it in Settings?@Recolección de datos necesita permiso para escribir en la tarjeta SD. ¿Desea habilitarlo en Configuración?
+Fitness History@Historial Fitness
+Complete@Completar
+No record. Let’s get started!@No hay registro. ¡Empecemos!
+No Goal@Sin objetivo
+Go@Ir
+(+%1$d)@(+%1$d)
+Go@Ir
+Goal not set@Objetivo no establecido
+Please remain stationary.Skipping this step may cause loss of route tracking@Por favor permanezca inmóvil. Omitir este paso ya que puede causar la pérdida del seguimiento de la ruta.
+Next select goal and start your sport@A continuación, seleccione el objetivo e inicie su deporte
+Please stand still in an open area. Skipping this step may cause loss of route tracking@Por favor permanezca inmóvil en un área abierta. Omitir este paso ya que puede causar la pérdida del seguimiento de la ruta
+Failed to lock GPS@Error al bloquear el GPS
+GPS locking...@Bloqueand GPS ...
+GPS Prepared@GPS preparado
+Skip@Omitir
+Please remain stationary and wait for GPS lock. Otherwise you might lose route tracking.@Por favor permanezca inmóvil y espere a que se bloquee el GPS. De lo contrario, podría perder el seguimiento de la ruta.
+No GPS module is detected. Please connect to the phone so that the fitness route can be captured.@No se ha detectado ningún módulo GPS. Por favor, conecte al teléfono para que la ruta fitness de acondicionamiento pueda ser capturada.
+Your watch has airplane mode on. Exit airplane mode to save and sync fitness route record.@Su reloj tiene activado el modo de avión. Salga del modo de avión para guardar y sincronizar el registro de ruta fitness.
+Turn on the GPS so that the fitness route can be captured.@Encienda el GPS para poder capturar la ruta fitness de acondicionamiento.
+Please give GPS permission. Please give permission so that the fitness route can be captured.@Por favor, dé el permiso GPS. Por favor, dé permiso para que la ruta fitness de acondicionamiento pueda ser capturada.
+GPS searching error. Please restart the fitness app so that the fitness route can be captured.@GPS búsqueda de error. Por favor, reinicie la aplicación de fitness para que la ruta de la aptitud pueda capturada.
+
+Go@Ir
+Exit@Salida
+Turn Off Airplane Mode@Desactivar el modo de avión
+Turn On GPS@Encender el GPS
+3@3
+2@2
+1@1
+Running@Corriendo
+Long press to end@Pulsación larga hasta el final
+%s Do you want to end it?@%s ¿Desea terminarlo?
+Workout is too short to save.@El ejercicio es demasiado corto para guardar.
+No data captured in this workout.@No hay datos capturados en este entrenamiento.
+Disconnected from phone therefore GPS is not available.@Desconectado del teléfono por lo tanto GPS no está disponible.
+Pause Set %s@Pausa establecida %s
+Set No %s@No establecer %s
+%1$s  Completed %2$s@%1$s Completado %2$s
+&#160;%s@&#160;%s
+Save@Guardar
+Delete@Borrar
+Do you want to delete this data?@¿Desea eliminar este dato?
+Detail Datas@Detalles de los datos
+%1$s %2$s \nTap to return@%1$s%2$s\n tocar para volver
+...@......
+paused@Pausado
+preparing...@Preparando...
+Please tighten the watch on your wrist to get accurate HR results.@Por favor,apriete el reloj en su muñeca para obtener resultados precisos de HR.
+auto pause@Pausa automática
+@
+@
+distance@Distancia
+in@en
+pace@paso
+speed@velocidad
+a total of@un total de
+heart rate@ritmo cardiaco
+use up@utilizar
+complete@completar
+percent@por ciento
+per@por
+hour@hora
+hours@horas
+minute@minuto
+minutes@minutos
+second@segundo
+seconds@segundos
+kilometer@kilómetro
+kilometers@kilómetros
+mile@milla
+miles@millas
+step@paso
+steps@pasos
+kilo calorie@kilo caloría
+kilo calories@kilo calorías
+beat@latido
+beats@latidos
+group@grupo
+groups@grupos
+you are in the@Tú estás en el
+zone@zona
+You have@Tiene
+is over@se acabó
+Target completed@Objetivo completado
+average@promedio
+current@corriente
+ran@corrió
+running@corriendo
+walked@caminó
+walking@caminado
+cycled@ciclo
+cycling@ciclismo
+trained@entrenado
+training@formación
+Let’s get started!@¡Empecemos!
+Activity has been paused.@La actividad se ha detenido.
+Activities have been automatically paused.@Las actividades se han pausado automáticamente.
+@
+@
+settings@Ajustes
+TTS Feedback@Feedback TTS
+On@Encendido
+Off@Apagado
+Feedback Frequency@Frecuencia Feedback
+Double Wrist Control@Control de muñeca doble
+Broadcast current activity data@Transmitir datos de actividad actual
+Using help@Uso de ayuda
+1 Tic Sports provides feedback customized to the program
+        you selected and your goal settings.\n
+2 There are two feedback modes: by distance or by time. You can choose to receive audio feedback
+         every 10 minutes or every 1 km.
+3 Turn on milestone feedback to have Tic Sports buzz related
+        information to cheer you up when you complete 50% and 75% of your workout.@1 Tic sports proporciona feedback personalizado para el programa
+         que ha seleccionado y su configuración de objetivos. \n
+2 Hay dos modos de feedback: por distancia o por tiempo. Puede elegir recibir respuesta audible cada 10 minutos o cada 1 km.
+3 Active el feedback de hito para que la información relacionada con el zumbido de Tic Sports le ayude cuando complete el 50% y el 75% de su entrenamiento.
+Version：%s@Versión:% s
+Click to view details@Haga clic para ver los detalles
+@
+@
+and@y
+point@punto
+zero@cero
+one@uno
+two@dos
+three@tres
+four@las cuatro
+five@cinco
+six@seis
+seven@siete
+eight@ocho
+nine@nueve
+ten@diez
+eleven@once
+twelve@doce
+thirteen@trece
+fourteen@catorce
+fifteen@quince
+sixteen@dieciséis
+seventeen@diecisiete
+eighteen@dieciocho
+nineteen@diecinueve
+twenty@veinte
+thirty@treinta
+forty@cuarenta
+fifty@cincuenta
+sixty@sesenta
+seventy@setenta
+eighty@ochenta
+ninety@noventa
+hundred@cien
+thousand@mil
+@
+@
+@
+h:m@h:m
+m:s@m:s
+mins@minutos
+km@km
+miles@millas
+BPM@BPM
+kcal@kcal
+km/h@km/h
+MPH@MPH
+/km@/km
+/miles@/millas
+step@paso
+sets@pasos
+Target %1$s (%2$s)@Objetivo% 1$s (%2$s)
+mins@minutos
+Steps@Pasos
+Calorie@Caloría
+Distance@Distancia
+Duration@Duración
+Set@Ajustar
+
+
+Health@Salud
+Current Steps@Pasos actuales
+Settings@Ajustes
+Start@Comienzo
+End@Fin
+Pedometer@Podómetro
+Active Reminder@Recordatorio activo
+Step Goal@Meta del paso
+Steps Notification@Notificación de pasos
+Enable@Habilitar
+Disable@Inhabilitar
+%1$02d:00@%1$02d:00
+%1$02d:00 - %2$02d:00@%1$02d:00 - %2$02d:00
+%1$.2f@%1$.2f
+miles@millas
+%1$.2f km@millas
+%1$.2f miles@%1$ .2f km
+Pedometer Disabled@%1$ .2f millas
+Swipe to right to activate background pedometer.@Pedómetro desactivado
+Disabling might cause data-accessing problems.@Desliza el dedo hacia la derecha para activar el podómetro de fondo.
+Active time!@Tiempo activo!
+It\'s time to move and take a walk!@Es hora de moverse y dar un paseo!
+Goal achieved. Excellent!@Objetivo alcanzado. ¡Excelente!
+"Big step towards achieving your daily Active Hours goal. Keep it up!"@Gran paso hacia el logro de su objetivo diario de horas activas.¡Seguid así!
+@
+"You have walked %1$d steps.\nOnly %2$d steps left."@Ha caminado%1$d pasos.\n Sólo%2$d pasos a la izquierda.
+"%1$d steps achieved.\nKeep going!"@%1$d pasos alcanzados.\N¡Sigue!
+@
+"Goal achieved. Congratulations!"@Objetivo logrado, felicidades!
+"%1$d steps reached.\n%2$d steps left. Come on!"@%1$d pasos alcanzados.\n% 2$d pasos a la izquierda. Vamos!
+"%1$d steps reached. %2$d steps left. Almost there!"@%1$ d pasos alcanzados.%2$ d pasos a la izquierda.¡Casi allí!    %1$d pas atteints.\n%2$d pas restants. On y est presque  !"
+"%1$d steps achieved!\nYou have reached your goal today!"@%1$ d pasos alcanzados!\Usted ha alcanzado su objetivo hoy!
+"%1$d steps achieved!\nExceeded goal by %2$d steps!"@%1$d pasos alcanzados!\n Meta superada por %2$d pasos!
+Disable Pedometer Notification@Deshabilitar la notificación del podómetro
+Disable Reminder@Desactivar recordatorio
+Don\'t Show Again Today@No\muestre otra vez hoy
+0@0
+K@K
+x10K@x10K
+%1$.1fx10K@%1$.1fx10K
+Goal@Objetivo
+History Records@Registros de historial
+Article@
+
+Artículo
+Goal&#160;%1$d&#160;minutes@Objetivo&#160;%1$d&#160;minutos
+Quick walk and exercise@Caminar rápido y hacer ejercicio
+Exercise overview@Vista general del ejercicio
+Goal&#160;%1$d&#160;Hours@Objetivo&#160;%1$d&#160;Horas
+Active hours overview@Resumen de horas activas
+Achieve 250 steps per hour@Consigue 250 pasos por hora
+Steps overview@Resumen de los pasos
+Goal&#160;%1$d&#160;Steps@Meta&#160;%1$d&#160;Pasos
+Steps@Pasos
+Distance@Distancia
+Cals@Caloría
+Exercise@Ejercicio
+Active hours@Horas de trabajo
+steps@pasos
+km@km
+kcal@kcal
+mins@minutos
+hours@horas
+Steps@Pasos
+Exercise@Ejercicio
+Active hours@Horas de trabajo
+Active Hours@Horas activas
+Goal Reminder@Recordatorio de la meta
+Active hours@Horas de trabajo
+If disabled you will not receive health and daily goal notifications.@Si está deshabilitado, no recibirá notificaciones de salud y notificaciones diarias.
+If disabled you will not receive active reminder notifications.@Si está deshabilitado, no recibirá notificaciones de recordatorio activas.
+Steps goal achieved!@¡Se logra el objetivo de los pasos!
+Goal achieved! You have walked %1$d steps today. Excellent!@¡Objetivo alcanzado! Ha caminado %1$d pasos hoy.¡Excelente!
+Exercise goal achieved!@Objetivo de ejercicio logrado!
+Goal achieved! You have exercised for %1$d mins. Excellent!@¡Objetivo alcanzado! Usted se ha ejercitado por %1$d minutos.¡Excelente!
+Active hours goal achieved!@Objetivo de horas activas logrado!
+"Goal achieved! You have been active for <xliff:g id="format">%1$d</xliff:g> hours by moving more than <xliff:gid="format">%2$d</xliff:g> steps per hour. Excellent!"@Objetivo cumplido! Ha sido activo para <xliff: g id = format ">%1$d </xliff:g>horas moviendo más de<xliff:gid ="format ">% 2 $ d</ xliff:g>pasos por hora, excelente! "
+Steps/Day@Pasos/Día
+Steps walked today@Pasos caminados hoy
+%d@%d
+Steps: %d@Pasos:% d
+Steps@Pasos
+Exercise time today@Tiempo de ejercicio hoy
+%d min@%d min
+Exercise time: %d min@Tiempo de ejercicio:% d min
+Exercise@Ejercicio
+Active hours today@Horas activas hoy
+%d h@%d h
+Active time: %d h@Tiempo activo:%dh
+Active@Activo
+Distance walked today@Distancia recorrida hoy
+%1$.1f %2$s@%1$.1f %2$s
+Distance: %1$.1f %2$s@Distancia:%1$ .1f%2$s
+Calories burned today@Calorías quemadas hoy
+%1$.0f %2$s@%1$ .0f%2$s
+Calorie: %1$.0f %2$s@Calorías:%1$ .0f%2$s
+@
+@
+Resting@Descansando
+Warm up@Calentar
+Fat burn@Quemar grasa
+Cardio@Cardio
+Anaerobic@Anaeróbico
+Dangerous!@¡Peligroso!
+Resting@¡Peligroso!
+Warm up@Calentar
+Fat burn@Quemar grasa
+Cardio@Cardio
+Anaerobic@Anaeróbico
+Dangerous@Peligroso
+@
+Please install Ticwatch App to access %1$s information.@Por favor, instala reloj tic App para acceder a la información de %1$s.
+"Please log into Ticwatch App to access %1$s information."@Por favor,inicie sesión en la aplicación de reloj tic para acceder a la información de%1$s.
+"Please install and log into Ticwatch App to access %1$s information."@Por favor ,instala y entra en la aplicación reloj  para acceder a la información de%1$s.
+
+
+
+
+
+Heart Rate@Ritmo cardiaco
+Settings@Ajustes
+Heart Rate Data@Datos de frecuencia cardíaca
+Prepare to test@Prepárese para probar
+Tap heart to test again@Toque el corazón para probar de nuevo
+Testing@Probando
+Try to keep still@Trate de mantenerse quieto
+Test Failed@Error en  prueba
+Press Ticwatch to your wrist and try again.@Presione  el reloj Tic en su muñeca e inténtelo de nuevo.
+Disabling HR sensor will not allow App to work. Want to enable them?@La inhabilitación del sensor HR no permitirá que la aplicación funcione. ¿Quieres habilitarlos?
+Enable HR sensor in the settings to track your heart rate@Habilitar el sensor HR en los ajustes para rastrear su frecuencia cardíaca
+History Records@Registros de historial
+Article@Artículo
+The heart rate test cannot be performed in the charged state!@¡La prueba de la frecuencia cardíaca no se puede realizar en estado cargado!
+
+
+
+Step Ranking@Ranking de pasos
+Tips:@Consejos:
+Ticwatch will get your geographic location for stats rankings.@El reloj Tic obtendrá su ubicación geográfica para las clasificaciones de estadísticas.
+Allow@Permitir
+Deny@Negar
+Nearby ranking@Clasificación cercana
+%1$d people like you@%1$d personas como usted
+loading…@cargando…
+Nearby@Cerca
+Back to top@Volver arriba
+No more items@No hay más artículos
+Please connect to the network@Por favor,conéctese a la red
+people like you@Personas como tú
+Back To Top@Volver arriba
+Notification Settings@Configuración de las notificaciones
+Likes notification@Le gusta la notificación
+Enabled@Habilitado
+Disabled@Discapacitado
+When you disable it you will not receive the notification@Cuando lo deshabilitas, no recibirás la notificación
+When you enable it you will receive the notification@Cuando lo habilites, recibirás la notificación
+Who likes him:@A quién le gusta:
+Not on the list@No en la lista
+%1$d steps@%1$d pasos
+%1$d@%1$d
+%1$d m@%1$d m
+%1$.1f km@%1$.1f km
+%1$.2f mi@%1$.2f mi
+Today@Hoy
+%1$d Days ago@%1$d Hace días
+Today %1$d steps@Hoy %1$d pasos
+%1$s away %2$s@%1$s lejos%2$s
+"Your ranking for the day is %1$d and you received %2$d likes in total."@Tu ranking para el día es %1$d y recibiste% 2$d como total.
+Step Ranking notification@Notificación de ranking de pasos
+Open App@Abre la app
+"Network disconnected. Please connect to Wi-Fi or companion to access the information."@Red desconectada. Por favor,conéctese a Wi-Fi o acompañante para acceder a la información.
+"Cellular data permission is denied. Enable it?"@Se ha denegado el permiso de datos celulares.
+"Cellular data permission is denied. Enable in Settings?"@Se ha denegado el permiso de datos celulares. ¿Habilitar en la configuración?
+"Network location permission is denied. Enable it?"@Se ha denegado el permiso de ubicación de red. ¿Activarlo?
+@
+"Failed to get location information. Please retry."@Error al obtener información de ubicación. Por favor, intenta de nuevo.
+"Failed to request network. Please retry."@Error al solicitar red. Vuelve a intentarlo.
+@
+Fail -> Failed if the failure already happened.@Falla -> Error si el fallo ya ocurrió.
+No network@Sin red
+@
+@
+%1$s update@%1$s actualización
+user_pic@usario_pic
+user_name@nombre_usuario
+<Data><![CDATA[<b>
+    <font color=\'#a446e7\'>%s</font> <font color=\'#fecf5f\'>%s</font></b>]]></Data>@<Data><![CDATA[<b>
+    <font color=\'#a446e7\'>%s</font> <font color=\'#fecf5f\'>%s</font></b>]]></Data>
+<Data><![CDATA[<b>
+    <font color=\'#000000\'>%s</font> <small><font color=\'#9842d5\'>%s</font></small></b>]]></Data>@<Data> <! [CDATA [<b>
+
+     <font color = \ '# 000000 \'>% s </ font> <small> <font color = \ '# 9842d5 \'>% s </ font> </ small> Datos> 
+\????@\????
+**@**
+Lv.%d@Lv.%d
+<Data><![CDATA[<b><font color=\'#666666\'>
+    Hi~Im </font> <font color=\'#a446e7\'>%s!</font></b>]]></Data>@"<Data> <! [CDATA [<b> <color frontal = \ '# 666666 \'>
+     Hola ~Soy </ font> <color frontal = \ '# a446e7 \'>% s! </ frontal > </ b>]]> </ Data> "
+Not paired yet@No emparejado todavía
+Please pair with Ticwatch companion to use Step
+        Ranking app@Por favor, con el compañero reloj tic para usar paso
+
+         Ranking app
+"Please download and\nlog into\n[Ticwatch] App\nto access ranking\ninformation"@Por favor, descargue y\nlog en\n [Ticwatch] App\para acceder a ranking\información
+APP -> App@APP -> App
+"Connect to \n\"Android Wear\" App\nto access\nranking information"@Conectar a\n\Android Wear\App\para acceder\a información bancaria"
+@
+@
+Please install %s App to access Step Ranking information.@Por favor,instala la App %s para acceder a la información de ranking por pasos.
+Please login in %s App to access Step Ranking information.@Por favor, inicia sesión en la App %s para acceder la información de ranking por pasos.
+Ticwatch@Reloj tic
+
+
+
+

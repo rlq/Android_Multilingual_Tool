@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_connection_not_connect"></string>
+    <string name="main_connection_add_new"></string>
+
+    <string name="main_status_disconnected"></string>
+    <string name="main_status_connected"></string>
+    <string name="main_status_connected_cloud"></string>
+    <string name="main_notify_goto_aw"></string>
+
+
+    <string name="main_device_remove_alert"></string>
+
+    <string name="main_permission_denied_rationale"></string>
+    <string name="main_permission_denied_rationale_debug"></string>
+    <string name="main_permission_settings"></string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Mobvoi Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- health center-->
+    <string name="health_center"></string>
+    <string name="sports_history"></string>
+    <string name="sports_unit"></string>
+    <string name="this_week"></string>
+    <string name="month"></string>
+    <string name="week"></string>
+    <string name="day"></string>
+    <string name="minute"></string>
+    <string name="step"></string>
+
+    <string name="kilometer"></string>
+
+    <string name="distance_formatter"></string>
+    <string name="set_step_goal_failed"></string>
+    <!-- end of helath center-->
+
+    <string name="percent_unit"></string>
+    <string name="health_detail_progress_step"></string>
+    <string name="health_detail_progress_time"></string>
+    <string name="health_detail_progress_count_tip"></string>
+    <string name="health_detail_cost_tip"></string>
+    <string name="health_detail_distance_tip"></string>
+    <string name="health_detail_distance_miles_tip"></string>
+    <string name="health_detail_de_tip"></string>
+    <string name="health_detail_step_tip"></string>
+    <string name="health_detail_time_tip"></string>
+    <string name="health_detail_tip"></string>
+
+    <string name="time_minute"></string>
+
+    <string name="health_average"></string>
+    <string name="health_step_unit"></string>
+    <string name="health_time_unit"></string>
+    <string name="health_count_unit"></string>
+    <string name="health_detail_dialog_step_tip"></string>
+    <string name="health_detail_dialog_time_tip"></string>
+    <string name="health_detail_dialog_count_tip"></string>
+
+    <string name="health_detail_dialog_step_title"></string>
+    <string name="health_detail_dialog_step_subtitle"></string>
+    <string name="health_detail_dialog_time_title"></string>
+    <string name="health_detail_dialog_time_subtitle"></string>
+    <string name="health_detail_dialog_count_title"></string>
+    <string name="health_detail_dialog_count_subtitle"></string>
+
+    <string name="yesterday"></string>
+    <string name="today"></string>
+
+    <string name="health_version_tip_dialog_title"></string>
+    <string name="health_version_tip_dialog_item1_start"></string>
+    <string name="health_version_tip_dialog_item1_end"></string>
+    <string name="health_version_tip_dialog_item2_start"></string>
+    <string name="health_version_tip_dialog_item2_end"></string>
+    <string name="health_version_tip_dialog_item3"></string>
+    <string name="health_version_tip_dialog_item4"></string>
+    <string name="health_version_tip_dialog_buttom"></string>
+</resources>

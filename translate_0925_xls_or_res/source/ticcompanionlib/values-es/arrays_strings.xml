@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months">
+        <item name="moths0">meses0</item>
+        <item name="moths1">meses1</item>
+        <item name="moths2">meses2</item>
+        <item name="moths3">meses3</item>
+        <item name="moths4">meses4</item>
+        <item name="moths5">meses5</item>
+        <item name="moths6">meses 6</item>
+        <item name="moths7">meses7</item>
+        <item name="moths8">meses8</item>
+        <item name="moths9">meses9</item>
+        <item name="moths10">meses10</item>
+        <item name="moths11">meses11</item>
+    </string-array>
+</resources>

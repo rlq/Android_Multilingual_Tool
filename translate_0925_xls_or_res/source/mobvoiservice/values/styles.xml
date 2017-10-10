@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Ticwear" />
+
+    <!--<style name="Eula">-->
+        <!--<item name="android:windowBackground">@color/background_color</item>-->
+        <!--<item name="android:colorBackground">@color/background_color</item>-->
+    <!--</style>-->
+    <style name="EulaContentWrapper">
+        <item name="layout_marginTopPercent">@fraction/eula_content_margin_top_percent</item>
+        <item name="layout_marginLeftPercent">@fraction/eula_content_margin_left_percent</item>
+        <item name="layout_widthPercent">@fraction/eula_content_width_percent</item>
+    </style>
+    <style name="EulaCommandText">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">@dimen/eula_command_text_size</item>
+        <item name="android:textColor">@color/eula_font_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/eula_command_text_padding_bottom</item>
+    </style>
+    <style name="EulaText">
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textSize">@dimen/eula_text_size</item>
+        <item name="android:textColor">@color/eula_font_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/eula_text_padding_bottom</item>
+    </style>
+    <style name="EulaBottomSheet">
+        <item name="android:background">@color/eula_sheet_background_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--语音播报-->
+    <string name="dis"></string>
+    <string name="time"></string>
+    <string name="pace"></string>
+    <string name="speed"></string>
+    <string name="total"></string>
+    <string name="heart"></string>
+    <string name="calorie"></string>
+    <string name="free"></string>
+    <string name="perc"></string>
+
+    <string name="per"></string>
+    <string name="hour"></string>
+    <string name="hours"></string>
+    <string name="min"></string>
+    <string name="mins"></string>
+    <string name="sec"></string>
+    <string name="secs"></string>
+    <string name="km"></string>
+    <string name="kms"></string>
+    <string name="km2"></string>
+    <string name="kms2"></string>
+    <string name="step"></string>
+    <string name="steps"></string>
+    <string name="kcal"></string>
+    <string name="kcals"></string>
+    <string name="beat"></string>
+    <string name="beats"></string>
+    <string name="group"></string>
+    <string name="groups"></string>
+    <string name="be0"></string>
+    <string name="be1"></string>
+
+    <string name="have"></string>
+    <string name="end"></string>
+    <string name="target"></string>
+    <string name="avg"></string>
+    <string name="cur"></string>
+
+    <string name="run"></string>
+    <string name="run2"></string>
+    <string name="walk"></string>
+    <string name="walk2"></string>
+    <string name="bike"></string>
+    <string name="bike2"></string>
+    <string name="train"></string>
+    <string name="train2"></string>
+
+    <string name="begin"></string>
+    <string name="pause"></string>
+    <string name="auto"></string>
+
+    <string name="settings_title"></string>
+    <string name="settings_tts"></string>
+    <string name="settings_tts_on"></string>
+    <string name="settings_tts_off"></string>
+    <string name="settings_freq"></string>
+    <string name="settings_gesture"></string>
+    <string name="settings_gesture_msg"></string>
+    <string name="settings_help"></string>
+    <string name="settings_help_res" formatted="false"></string>
+
+    <string name="settings_version"></string>
+    <string name="settings_version_res"></string>
+
+    <string name="and"></string>
+    <string name="p"></string>
+    <string name="zero"></string>
+    <string name="one1"></string>
+    <string name="two1"></string>
+    <string name="three1"></string>
+    <string name="four"></string>
+    <string name="five"></string>
+    <string name="six"></string>
+    <string name="seven"></string>
+    <string name="eight"></string>
+    <string name="nine"></string>
+    <string name="ten"></string>
+    <string name="eleven"></string>
+    <string name="twelve"></string>
+    <string name="thirteen"></string>
+    <string name="fourteen"></string>
+    <string name="fifteen"></string>
+    <string name="sixteen"></string>
+    <string name="seventeen"></string>
+    <string name="eighteen"></string>
+    <string name="nineteen"></string>
+    <string name="twenty"></string>
+    <string name="thirty"></string>
+    <string name="forty"></string>
+    <string name="fifty"></string>
+    <string name="sixty"></string>
+    <string name="seventy"></string>
+    <string name="eighty"></string>
+    <string name="ninety"></string>
+    <string name="hundred"></string>
+    <string name="thousand"></string>
+    <string name="wan"></string>
+</resources>

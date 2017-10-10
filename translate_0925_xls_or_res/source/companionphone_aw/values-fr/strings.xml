@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authorize_title">Autorisation des données</string>
+    <string name="fit_authorized">Autoriser</string>
+    <string name="fit_unauthorized">Supprimer</string>
+    <string name="fitness_default_activity">Fitness</string>
+    <string name="label_share">Partager</string>
+    <string name="label_share_title">Partager avec</string>
+    <string name="fitness_data_sync_tip">Autoriser le chargement de vos données de fitness et gardez vos informations synchronisées sur différentes plates-formes</string>
+</resources>

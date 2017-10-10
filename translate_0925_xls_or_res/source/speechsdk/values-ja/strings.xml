@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_code_system_error">システムエラー</string>
+    <string name="error_code_network_error">ネットワークエラー</string>
+    <string name="error_code_no_network">ネットワークを確認してください</string>
+    <string name="error_code_device_error">レコーダーは利用できません</string>
+    <string name="error_code_no_speech">私を許しますか？</string>
+    <string name="error_code_long_speech">音声が長すぎます</string>
+    <string name="error_code_silence_too_long">音声が検出されなかった</string>
+    <string name="error_code_network_slow">低速ネットワーク</string>
+
+    <string name="special_word_call">コール</string>
+    <string name="special_word_sms">メッセージを送る</string>
+    <string name="special_word_open">開いた</string>
+    <string name="special_word_close">閉じる</string>
+
+    <string name="contact_not_found">連絡先が見つかりません。\ nもう一度お試しください</string>
+    <string name="contact_usage_suggestion">連絡先を選択してください。</string>
+</resources>

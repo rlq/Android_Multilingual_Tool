@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_title_share">Compartir</string>
+    <string name="help_share_title">Guía del usuario de Ticwatch</string>
+    <string name="change_avatar_camera">Tomar una fotografía</string>
+    <string name="change_avatar_photo">Elegir desde la galería de fotos</string>
+    <string name="label_share">Compartir</string>
+    <string name="label_share_title">Compartir con</string>
+</resources>

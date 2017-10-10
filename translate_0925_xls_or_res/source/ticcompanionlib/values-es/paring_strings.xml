@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paring_no_aw_install">recorte_no_aw_instalar</string>
+    <string name="paring_pair_in_aw">recorte_par_en_aw</string>
+    <string name="paring_pair_complete">recorte_par_completar</string>
+
+    <string name="paring_go_play_store">recorte_ir_jugar_tienda</string>
+    <string name="paring_go_aw">recorte_ir_aw</string>
+    <string name="paring_start">recorte_iniciar</string>
+</resources>

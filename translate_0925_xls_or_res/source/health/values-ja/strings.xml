@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_label">健康</string>
+    <string name="current_steps">現在の歩数</string>
+    <string name="setting">設定</string>
+
+    <!-- settings -->
+    <string name="start">開始する</string>
+    <string name="end">終了する</string>
+    <string name="step_background">歩数計</string>
+    <string name="sit_too_long">アクティブリマインダー</string>
+    <string name="every_day_goal">歩数のゴール</string>
+    <string name="push_step_notification">歩数通知</string>
+    <string name="enable">可能にする</string>
+    <string name="disable">無効にする</string>
+    <string name="hour_formatter">%1$02d:00</string>
+    <string name="start_end_hour_formatter">%1$02d:00 - %2$02d:00</string>
+
+    <!-- Heart Rate -->
+
+    <!-- Step Counter -->
+    <string name="distance_miles">マイル</string>
+    <string name="distance_formatter">%1$.2fキロメートル</string>
+    <string name="distance_formatter_miles">%1$.2fマイル</string>
+    <string name="step_sevice_not_open">歩数計が無効になりました</string>
+    <string name="slid_right_open_step">右にスワイプし、バックグラウンド歩数計を作動します。</string>
+    <string name="disable_step_service">無効にすると、データアクセスの問題が発生する可能性があります。</string>
+
+    <!-- Notification -->
+    <string name="alert_active">アクティブタイム！</string>
+    <string name="alert_active_desc">さあ、体を動かして歩きましょう！</string>
+    <string name="alert_active_finish">ゴールを達成しました。よくできました！</string>
+    <string name="alert_active_finish_desc">毎日のアクティブ時間目標を達成する大きなステップです。頑張れ！</string>
+    <string name="alert_with_goal_finish">おめでとうございます！ゴールを達成しました。</string>
+    <string name="alert_with_goal_mid">%1$d歩歩きました。残り\nOnly %2$d歩です。」</string>
+    <string name="alert_with_no_goal">%1$d歩達成しました。\nこの調子です!」</string>
+    <string name="alert_with_goal_end">%1$d 歩&#160;</string>
+    <string name="alert_with_goal_end_over">ゴールを達成しました。おめでとうございます！</string>
+    <string name="alert_with_goal_end_0_75">%1$d歩達成しました。残り\n%2$d歩です。まだまだ頑張って！</string>
+    <string name="alert_with_goal_end_75_100">%1$d歩達成しました。残り%2$d歩です。あともう少し！</string>
+    <string name="alert_with_goal_end_100">%1$d歩達成しました！\n今日のゴールを達成しました！</string>
+    <string name="alert_with_goal_end_over_100">%1$d歩達成しました！\n%2$d歩でゴールを越えました！</string>
+
+    <string name="notification_disable_step">歩数計の通知を無効にする</string>
+    <string name="notification_disable_alert">リマインダーを無効にする</string>
+    <string name="notification_disable_today">今日は表示しないでください</string>
+    <string name="hundred">00</string>
+    <string name="thousand">K</string>
+    <string name="ten_thousand">x10K</string>  <!-- TODO 10K -->
+    <string name="ten_thousand_formatter">%1$.1fx10K</string>
+    <string name="step_goal_setting_title">ゴール</string>
+    <string name="history_number">履歴記録</string>
+    <string name="heart_rate_number_picker">条項</string>
+
+    <string name="health_time_goal">ゴール&#160;%1$d&#160;分</string>
+
+    <string name="health_time_tips">クイックウォーキングとエクササイズ</string>
+    <string name="health_time_stat">エクササイズの概要</string>
+    <string name="health_count_goal">ゴール&#160;%1$d&#160;時間</string>
+    <string name="health_count_stat">アクティブ時間の概要</string>
+    <string name="health_count_tips">１時間当たり250歩を達成する</string>
+    <string name="health_step_stat">歩数の概要</string>
+    <string name="health_step_goal">ゴール&#160;%1$d&#160;歩</string>
+    <string name="health_detail_item_step">歩</string>
+    <string name="health_detail_item_distance">距離</string>
+    <string name="health_detail_item_calorie">カロリー</string>
+    <string name="health_detail_item_time">エクササイズ</string>
+    <string name="health_detail_item_de">アクティブ時間</string>
+
+    <string name="health_detail_item_step_unit">歩</string>
+    <string name="health_detail_item_distance_unit">キロメートル</string>
+    <string name="health_detail_item_calorie_unit">キロカロリー</string>
+    <string name="health_detail_item_time_unit">分</string>
+    <string name="health_detail_item_de_unit">時間</string>
+
+    <string name="health_detail_progress_step">歩</string>
+    <string name="health_detail_progress_time">エクササイズ</string>
+    <string name="health_detail_progress_count">アクティブ時間</string>
+
+    <string name="settings_item_dd">アクティブ時間</string>
+    <string name="settings_item_done">ゴールリマインダー</string>
+    <string name="settings_health_count_dialog_title">アクティブ時間</string>
+    <string name="settings_version">バージョン：%s</string>
+    <string name="settings_version_res">クリックすると詳細が表示されます</string>
+
+    <string name="disable_health_time_done">無効にすると、健康状態や毎日の目標通知は受信できません。</string>
+    <string name="disable_sit_long_alert">無効にすると、アクティブリマインダーの通知は受信できません。</string>
+
+    <string name="health_step_done_title">歩数のゴールを達成しました！</string>
+    <string name="health_step_done">ゴールを達成しました！今日は %1$d歩歩きました。よくできました！</string>
+    <string name="health_time_done_title">エクササイズのゴールを達成しました！</string>
+    <string name="health_time_done">ゴールを達成しました！%1$d分エクササイズしました。よくできました！</string>
+    <string name="health_count_done_title">アクティブ時間のゴールを達成しました！</string>
+    <string name="health_count_done">ゴールを達成しました！1時間あたり <xliff:g id="format">%2$d</xliff:g>歩以上移動することで、
+        <xliff:g id="format">%1$d</xliff:g> 時間活動しています。よくできました！</string>
+
+    <string name="step_gold_unity">1日あたりの歩数</string>
+
+    <!-- WatchFace complication -->
+    <string name="complication_step_description">本日歩いた歩数</string>
+    <string name="complication_step_short">%d</string>
+    <string name="complication_step_long">歩数：%d</string>
+    <string name="complication_step_unit">歩</string>
+    <string name="complication_exercise_description">本日のエクササイズ時間</string>
+    <string name="complication_exercise_short">%d分</string>
+    <string name="complication_exercise_long">エクササイズ時間：%d分</string>
+    <string name="complication_exercise_unit">エクササイズ</string>
+    <string name="complication_active_description">本日のアクティブ時間</string>
+    <string name="complication_active_short">%d時間</string>
+    <string name="complication_active_long">アクティブ時間：%d時間</string>
+    <string name="complication_active_unit">アクティブ</string>
+    <string name="complication_distance_description">本日歩いた距離</string>
+    <string name="complication_distance_short">%1$.1f %2$s</string>
+    <string name="complication_distance_long">距離：%1$.1f %2$s</string>
+    <string name="complication_calorie_description">本日の消費カロリー</string>
+    <string name="complication_calorie_short">%1$.0f %2$s</string>
+    <string name="complication_calorie_long">カロリー：%1$.0f %2$s</string>
+</resources>

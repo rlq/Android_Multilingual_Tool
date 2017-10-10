@@ -1,0 +1,6 @@
+<resources>
+    <string name="account_hint">Geben Sie bitte Ihre Email-Adresse ein</string>
+    <string name="account_format_error">E-Mail-Format ist falsch</string>
+    <string name="account_empty">Geben Sie bitte Ihre Email-Adresse ein</string>
+    <string name="captcha_sent_mail">Code gesendet, bitte überprüfen Sie Ihre E-Mail.</string>
+</resources>

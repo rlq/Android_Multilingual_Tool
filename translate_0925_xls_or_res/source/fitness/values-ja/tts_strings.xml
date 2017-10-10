@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--语音播报-->
+    <string name="dis">距離</string>
+    <string name="time">中に</string>
+    <string name="pace">ペース</string>
+    <string name="speed">速度</string>
+    <string name="total">以下の合計</string>
+    <string name="heart">心拍数</string>
+    <string name="calorie">出し切る</string>
+    <string name="free">完了する</string>
+    <string name="perc">パーセント</string>
+
+    <string name="per">以下毎に</string>
+    <string name="hour">時間</string>
+    <string name="hours">時間</string>
+    <string name="min">分</string>
+    <string name="mins">分</string>
+    <string name="sec">秒</string>
+    <string name="secs">秒</string>
+    <string name="km">キロメートル</string>
+    <string name="kms">キロメートル</string>
+    <string name="km2">マイル</string>
+    <string name="kms2">マイル</string>
+    <string name="step">歩</string>
+    <string name="steps">歩</string>
+    <string name="kcal">キロカロリー</string>
+    <string name="kcals">キロカロリー</string>
+    <string name="beat">脈拍</string>
+    <string name="beats">脈拍</string>
+    <string name="group">グループ</string>
+    <string name="groups">グループ</string>
+    <string name="be0">あなたは以下にあります</string>
+    <string name="be1">ゾーン</string>
+
+    <string name="have">あなたには以下があります</string>
+    <string name="end">～が終了しました</string>
+    <string name="target">目標を達成しました</string>
+    <string name="avg">平均</string>
+    <string name="cur">現行</string>
+
+    <string name="run">走行済</string>
+    <string name="run2">走行中</string>
+    <string name="walk">歩行済</string>
+    <string name="walk2">歩行中</string>
+    <string name="bike">サイクリング済</string>
+    <string name="bike2">サイクリング中</string>
+    <string name="train">トレーニング済</string>
+    <string name="train2">トレーニング中</string>
+
+    <string name="begin">始めましょう！</string>
+    <string name="pause">アクティビティが一時停止しました。</string>
+    <string name="auto">アクティビティが自動で一時停止しました。</string>
+
+    <string name="settings_title">設定</string>
+    <string name="settings_tts">TTS</string>
+    <string name="settings_tts_on">オン</string>
+    <string name="settings_tts_off">オフ</string>
+    <string name="settings_freq">頻度</string>
+    <string name="settings_gesture">ダブルリストコントロール</string>
+    <string name="settings_gesture_msg">現在の活動データを放送する</string>
+    <string name="settings_help">ヘルプを使用中</string>
+    <string name="settings_help_res" formatted="false">1 Tic Sportsは、あなたが選んだプログラムと目標設定に合わせてカスタマ
+        イズされたフィードバックを提供します。\n2　距離または時間のフィードバックモードが2つあります。10分ごとまたは1kmごとにオーディオフ
+        ィードバックを受信するよう選択できます。\n3マイルストーンフィードバックをオンにし、トレーニングが50％、また75％完了したときにTicSportsが振動し、関連情報を送り、
+        あなたのやる気をサポートします。</string>
+
+    <string name="settings_version">バージョン：</string>
+    <string name="settings_version_res">クリックすると詳細が表示されます</string>
+
+    <string name="and">また</string>
+    <string name="p">ポイント</string>
+    <string name="zero">0</string>
+    <string name="one1">一</string>
+    <string name="two1">二</string>
+    <string name="three1">三</string>
+    <string name="four">四</string>
+    <string name="five">五</string>
+    <string name="six">六</string>
+    <string name="seven">七</string>
+    <string name="eight">八</string>
+    <string name="nine">九</string>
+    <string name="ten">十</string>
+    <string name="eleven">十一</string>
+    <string name="twelve">十二</string>
+    <string name="thirteen">十三</string>
+    <string name="fourteen">十四</string>
+    <string name="fifteen">十五</string>
+    <string name="sixteen">十六</string>
+    <string name="seventeen">十七</string>
+    <string name="eighteen">十八</string>
+    <string name="nineteen">十九</string>
+    <string name="twenty">二十</string>
+    <string name="thirty">三十</string>
+    <string name="forty">四十</string>
+    <string name="fifty">五十</string>
+    <string name="sixty">六十</string>
+    <string name="seventy">七十</string>
+    <string name="eighty">八十</string>
+    <string name="ninety">九十</string>
+    <string name="hundred">百</string>
+    <string name="thousand">千</string>
+    <string name="wan">万</string>
+</resources>

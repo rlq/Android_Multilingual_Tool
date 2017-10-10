@@ -1,0 +1,7 @@
+<resources>
+
+
+    <!-- EULA -->
+    <string name="eula_interstitial_command"></string>
+    <string name="eula_interstitial_eula"></string>
+</resources>

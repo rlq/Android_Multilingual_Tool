@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="health_app_background_dark">#1e1e1e</color>
+
+    <color name="health_mask_white_slight">#20ffffff</color>
+
+    <color name="health_base_orange">#ff6000</color>
+    <color name="health_base_yellow">#ffcc00</color>
+    <color name="health_base_pink">#e92232</color>
+    <color name="health_base_blue_light">#1fbbea</color>
+    <color name="health_base_blue_dark">#0087ff</color>
+
+    <color name="health_text_primary">#fff</color>
+    <color name="health_text_secondary">#d4d4d4</color>
+    <color name="health_text_third">#a6a6a6</color>
+    <color name="health_text_hint">#666666</color>
+
+    <color name="health_text_button_colored">#488ce8</color>
+
+    <color name="health_text_unit_sport">#a6a6a6</color>
+
+    <color name="health_timeline_line">@color/health_mask_white_slight</color>
+
+    <color name="health_text_duration">@color/health_base_blue_light</color>
+    <color name="health_text_distance">@color/health_base_blue_dark</color>
+    <color name="health_text_calorie">@color/health_base_yellow</color>
+    <color name="health_text_step">@color/health_base_orange</color>
+
+    <!--sport section-->
+    <color name="health_sport_background">#121214</color>
+    <color name="health_text_sport_date_week_left">#33ccff</color>
+    <color name="health_text_sport_date_week_right">#3366ff</color>
+    <color name="health_text_sport_date_week">#425e69</color>
+    <color name="health_text_sport_date_not_current">#20ffffff</color>
+    <color name="health_sport_item_right_background">#8f1e1e1e</color>
+    <color name="health_sport_text_distance">#33C2FF</color>
+    <color name="health_sport_text_duration">#61CC87</color>
+    <color name="health_sport_text_calorie">#44BAA0</color>
+    <color name="health_sport_text_heart">#E04A42</color>
+    <color name="health_sport_heart_rate_info">#FC867F</color>
+    <color name="health_sport_heart_improve_background">#FF8705</color>
+    <color name="health_sport_heart_lose_background">#D4DC43</color>
+    <color name="health_sport_heart_lose_improve_path">#1aD4DC43</color>
+    <color name="health_sport_heart_rate_dangerous">#D1003B</color>
+    <color name="health_sport_heart_rate_maximum">#F00044</color>
+    <color name="health_sport_heart_rate_second">#FF4301</color>
+    <color name="health_sport_heart_rate_third">#EBA714</color>
+    <color name="health_sport_heart_rate_fourth">#39D771</color>
+    <color name="health_sport_heart_rate_minimum">#49CFDF</color>
+    <color name="health_sport_text_stride_freq">#F2A716</color>
+    <color name="health_sport_text_stride_freq_start">#80ffc300</color>
+    <color name="health_sport_text_stride_freq_end">#80000000</color>
+    <color name="health_sport_text_inside">#959595</color>
+    <color name="health_sport_text_stride_start">#80ff6000</color>
+    <color name="health_sport_text_stride_end">#80000000</color>
+    <color name="health_sport_text_stride">#F35D36</color>
+    <color name="health_sport_text_path">#33C9FF</color>
+    <color name="health_sport_text_training">#5DBAF9</color>
+    <color name="health_sport_training_start">#2EB5D7</color>
+    <color name="health_sport_training_end">#28E2B8</color>
+    <color name="health_sport_training_rest_start">#0087FF</color>
+    <color name="health_sport_training_rest_end">#1FBBEA</color>
+    <color name="health_sport_speed_info">#75CF8B</color>
+    <color name="health_sport_speed_start">#2FC986</color>
+    <color name="health_sport_speed_end">#41BD5B</color>
+    <color name="health_sport_speed_increase">#61CC87</color>
+    <color name="health_sport_speed_decrease">#FF7800</color>
+    <color name="health_sport_velocity_text">#4D4D4D</color>
+    <color name="health_sport_velocity_maximum">#65BD84</color>
+    <color name="health_sport_velocity_second">#EBA714</color>
+    <color name="health_sport_velocity_third">#F2790D</color>
+    <color name="health_sport_velocity_minimum">#EB5148</color>
+    <color name="health_sport_percent_start">#33CCFF</color>
+    <color name="health_sport_percent_end">#3366FF</color>
+    <color name="health_sport_percent_top">#232426</color>
+    <color name="health_sport_percent_bottom">#121212</color>
+    <color name="health_sport_path_info">#27AFEC</color>
+
+    <!--share section-->
+    <color name="health_sport_share_gradient_start">#1f1f23</color>
+    <color name="health_sport_share_gradient_end">#16161e</color>
+    <color name="health_sport_share_selected">#8f1e1e1e</color>
+    <color name="health_sport_share_mask_black_middle">#cd000000</color>
+
+
+</resources>

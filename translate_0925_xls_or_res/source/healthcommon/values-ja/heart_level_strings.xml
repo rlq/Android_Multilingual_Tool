@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heart_level_rest">休憩</string>
+    <string name="heart_level_warm_up">ウォームアップ</string>
+    <string name="heart_level_fat_burn">脂肪燃焼</string>
+    <string name="heart_level_aerobic">有酸素運動</string>
+    <string name="heart_level_anagrobic">無酸素運動</string>
+    <string name="heart_level_dangerous">危険です！</string>
+
+    <string name="heart_level_rest_long">休憩</string>
+    <string name="heart_level_warm_up_long">ウォームアップ</string>
+    <string name="heart_level_fat_burn_long">脂肪燃焼</string>
+    <string name="heart_level_aerobic_long">有酸素運動</string>
+    <string name="heart_level_anagrobic_long">無酸素運動</string>
+    <string name="heart_level_dangerous_long">危険</string>
+</resources>

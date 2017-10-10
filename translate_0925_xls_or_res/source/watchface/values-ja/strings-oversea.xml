@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tic_triplex">三重</string>
+    <string name="tic_oceanus">奥申纳斯</string>
+    <string name="tic_humor">黑色幽默</string>
+    <string name="tic_space_time">时空</string>
+    <string name="tic_digital">数字</string>
+
+    <string name="oceanus_blue">蓝色</string>
+    <string name="oceanus_steel">精钢</string>
+    <string name="oceanus_gold">黄金</string>
+    <string name="tican">蒂肯</string>
+
+</resources>

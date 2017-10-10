@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Rythme cardiaque</string>
+    <string name="setting">Paramètres</string>
+
+    <!-- settings -->
+    <string name="heart_rate_number">Données sur la fréquence cardiaque</string>
+    <string name="settings_version">Versión: %s</string>
+    <string name="settings_version_res">Cliquez pour voir les détails</string>
+
+    <!-- Heart Rate -->
+    <string name="heart_rate_preparing">Préparez-vous à tester</string>
+    <string name="heart_rate_click">Veuillez taper le coeur pour tester à nouveau</string>
+    <string name="heart_rate_testing">Essai</string>
+    <string name="heart_rate_test_tips">Essayez de rester immobile</string>
+    <string name="heart_rate_test_failed">Test échoué</string>
+    <string name="heart_rate_test_again">Veuillez appuyer Ticwatch sur votre poignet et réessayer.</string>
+
+    <string name="permission_rationale_notify">Désactiver le capteur HR ne permettra pas à l\'application de fonctionner. Voulez-vous l\'activer ?</string>
+    <string name="permission_setting_explain">Veuillez activer le capteur HR dans les paramètres pour suivre votre fréquence cardiaque</string>
+
+    <string name="history_number">Historique des enregistrements</string>
+    <string name="heart_rate_number_picker">Article</string>
+    <string name="heart_rate_test_tip">Le test du rythme cardiaque ne peut pas être effectué à l\'état chargé !</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unit_time_hour"></string>
+    <string name="unit_time"></string>
+    <string name="unit_time_mins_only"></string>
+    <string name="unit_distance"></string>
+    <string name="unit_distance_imperial"></string>
+    <string name="unit_heart"></string>
+    <string name="unit_calorie"></string>
+    <string name="unit_speed"></string>
+    <string name="unit_speed_imperial"></string>
+    <string name="unit_pace"></string>
+    <string name="unit_pace_imperial"></string>
+    <string name="unit_step"></string>
+    <string name="unit_group"></string>
+
+    <string name="target_des"></string>
+    <string name="target_unit_time"></string>
+    <string name="data_type_step"></string>
+    <string name="data_type_calorie"></string>
+    <string name="data_type_distance"></string>
+    <string name="data_type_time"></string>
+    <string name="data_type_group"></string>
+
+</resources>

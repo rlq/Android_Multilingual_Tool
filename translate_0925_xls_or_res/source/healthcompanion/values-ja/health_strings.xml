@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Mobvoi Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- health center-->
+    <string name="health_center">健康センター</string>
+    <string name="sports_history">%s履歴</string>
+    <string name="sports_unit">%1$d-minute %2$s</string>
+    <string name="this_week">今週</string>
+    <string name="month">月</string>
+    <string name="week">週</string>
+    <string name="day">日</string>
+    <string name="minute">分</string>
+    <string name="step">歩</string>
+
+    <string name="kilometer">キロメートル</string>
+
+    <string name="distance_formatter">%1$.2f</string>
+    <string name="set_step_goal_failed">歩数ゴールを設定できません。時計に接続してください。</string>
+    <!-- end of helath center-->
+
+    <string name="percent_unit">&#037;</string>
+    <string name="health_detail_progress_step">歩</string>
+    <string name="health_detail_progress_time">エクササイズ</string>
+    <string name="health_detail_progress_count_tip">アクティブ時間</string>
+    <string name="health_detail_cost_tip">燃焼カロリー</string>
+    <string name="health_detail_distance_tip">1キロメートルあたりの距離</string>
+    <string name="health_detail_distance_miles_tip">1マイルあたりの距離</string>
+    <string name="health_detail_de_tip">アクティブ時間</string>
+    <string name="health_detail_step_tip">歩</string>
+    <string name="health_detail_time_tip">1分ごとのエクササイズ</string>
+    <string name="health_detail_tip">詳細データを閲覧する</string>
+
+    <string name="time_minute">分</string>
+
+    <string name="health_average">平均</string>
+    <string name="health_step_unit">歩</string>
+    <string name="health_time_unit">分</string>
+    <string name="health_count_unit">時間</string>
+    <string name="health_detail_dialog_step_tip"><![CDATA[<font color=#ff804c size=50>&#183;
+        </font>現在の1日のゴールは&#160;%1$d&#160;歩です。別のゴールに設定したい場合、健康センター―個人情報を通じ、1日の歩数ゴールを変更できます。]]></string>
+
+
+    <string name="health_detail_dialog_time_tip"><![CDATA[
+        <font color=#33a6ff>&#183; </font>クイックウォーキングより激しい運動だけが運動としてカウントされます。<br><br>
+        <font color=#33a6ff>&#183; </font>参考までに、医療専門家は、&#160;20-30&#160;分の毎日中等度〜高強度の運動を提案します。]]></string>
+
+
+    <string name="health_detail_dialog_count_tip"><![CDATA[
+        <font color=#64d35e>&#183; </font>&#160;250&#160;歩以上の時間のみがカウントされます。<br><br>
+        <font color=#64d35e>&#183; </font>立ちあがるため頻繁に休憩を取ったり歩いたりすると、糖尿病や心臓病を発症する機会が大幅に減ります。研究では1時間に数分立ちあがることを推奨しています。]]></string>
+
+
+    <string name="health_detail_dialog_step_title">～の -> ～へ</string>
+    <string name="health_detail_dialog_step_subtitle">毎日#160;8000~10000&#160;歩歩くことをお勧めします。</string>
+    <string name="health_detail_dialog_time_title">よくわからない。文脈を読めばわかるかもしれないが、全歩数の強さに明確な意味がない。強さは必要？これが1日歩いた全歩数のラベルなら必要ではないと思う。</string>
+    <string name="health_detail_dialog_time_subtitle">毎日少なくとも&#160;30&#160;分歩くことをお勧めします。</string>
+    <string name="health_detail_dialog_count_title">～を通じ -> ～へ</string>
+    <string name="health_detail_dialog_count_subtitle">毎時間少なくとも&#160;250&#160;歩歩くことをお勧めします。</string>
+
+    <string name="yesterday">昨日</string>
+    <string name="today">本日</string>
+
+    <string name="health_version_tip_dialog_title">*&#160;Ticwatchのバージョンが低すぎます。完全版の健康情報を見るには時計を更新してください。</string>
+    <string name="health_version_tip_dialog_item1_start">1.&#160;開ける&#160;</string>
+    <string name="health_version_tip_dialog_item1_end">&#160;時計上の[設定]</string>
+    <string name="health_version_tip_dialog_item2_start">2.&#160;見つける&#160;</string>
+    <string name="health_version_tip_dialog_item2_end">&#160;[更新]</string>
+    <string name="health_version_tip_dialog_item3">3.&#160;Choose&#160;[バージョン更新]</string>
+    <string name="health_version_tip_dialog_item4">4.&#160;アップデート完了後電話でTicwearアプリを開きます。</string>
+    <string name="health_version_tip_dialog_buttom">Ok</string>
+</resources>

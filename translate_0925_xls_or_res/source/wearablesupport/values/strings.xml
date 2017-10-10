@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- action name -->
+    <string name="action_reply">Reply</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_detail">Detail</string>
+    <string name="action_setting">Settings</string>
+    <string name="action_open_on_phone">Open on phone</string>
+    <string name="action_dial_phone">Dial phone</string>
+    <string name="action_navigation">Navigation</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_reset">Reset</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="cancel_btn">Cancel</string>
+</resources>

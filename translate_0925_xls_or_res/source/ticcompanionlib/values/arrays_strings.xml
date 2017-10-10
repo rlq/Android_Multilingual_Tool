@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months">
+        <item name="moths0">"Jan"</item>
+        <item name="moths1">"Feb"</item>
+        <item name="moths2">"Mar"</item>
+        <item name="moths3">"Apr"</item>
+        <item name="moths4">"May"</item>
+        <item name="moths5">"Jun"</item>
+        <item name="moths6">"Jul"</item>
+        <item name="moths7">"Aug"</item>
+        <item name="moths8">"Sep"</item>
+        <item name="moths9">"Oct"</item>
+        <item name="moths10">"Nov"</item>
+        <item name="moths11">"Dec"</item>
+    </string-array>
+</resources>

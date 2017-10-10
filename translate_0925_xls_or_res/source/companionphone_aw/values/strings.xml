@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authorize_title">Data Authorization</string>
+    <string name="fit_authorized">Authorize</string>
+    <string name="fit_unauthorized">Remove</string>
+    <string name="fit_gf_title" translatable="false">Google Fit</string>
+    <string name="fit_rk_title" translatable="false">Runkeeper</string>
+    <string name="fit_strava_title" translatable="false">Strava</string>
+    <string name="fitness_default_activity">Fitness</string>
+    <string name="label_share">Share</string>
+    <string name="label_share_title">Share with</string>
+    <string name="fitness_data_sync_tip">Authorize to upload your fitness data and keep your data synced among different platforms</string>
+</resources>

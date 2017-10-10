@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="wind_speed_text"></string>
+    <string name="weather_update_time">%s Update</string>
+    <string name="sunrise_service_label">Sonnenaufgangszeit</string>
+    <string name="sunset_service_label">Sonnenuntergangszeit</string>
+    <string name="pm25_service_label">Luftqualität</string>
+    <string name="temp_service_label">Temperatur</string>
+    <string name="weather_service_label">Wetter</string>
+    <string name="wind_service_label">Windvorhersage</string>
+    <string name="sunset_long_text">Sonnenuntergang: %s</string>
+    <string name="sunrise_long_text">Sonnenaufgang: %s</string>
+    <string name="location_permission_is_granted">Der Entwicklermodus benötigt die Berechtigung zum Schreiben von Debugprotokollen auf die SD-Karte. Berechtigung erteilen?</string>
+    <string name="location_permission_not_granted">Benötigen Sie die Standortberechtigung, um Wetterinformationen für den aktuellen Standort zu erhalten.
+ Drücken Sie die folgende Schaltfläche, um die Berechtigung zu erteilen. </string>
+    <string name="ok">OK</string>
+    <string name="companion_exit"></string>
+    <string name="companion_skip">Überspringen</string>
+    <string name="companion_skip_never_ask"></string>
+    <string name="companion_open_phone">VOM TELEFON AUS ÖFFNEN</string>
+    <string name="companion_android_no_exist_check">Überprüfen Sie Play Store auf Ihrem Telefon</string>
+    <string name="companion_android_no_login_check">Überprüfen Sie die Ticwatch App auf Ihrem Telefon</string>
+    <string name="companion_ios_no_exist_check">Überprüfen Sie den App Store auf Ihrem Telefon</string>
+    <string name="companion_disconnected_title">Telefon ist getrennt</string>
+    <string name="companion_disconnected_summary">Bitte überprüfen Sie Ihr Bluetooth</string>
+
+    <string name="ios_connect_notification_content">Download Ticwatch from App Store and click to connect</string>
+    <string name="ios_connect_notification_title">Ticwatch App</string>
+    <string name="ios_connect_tips_title">Connect to phone</string>
+    <string name="ios_connect_tips_desc">When phone connection succeeds, you can view and sync
+        fitness data in the Ticwatch app on phone.\n\nIf connection fails, please make sure
+        Ticwatch app is open, then click the "Connect to phone" button below.</string>
+    <string name="ios_connect_connect_btn">Connect to phone</string>
+    <string name="ios_connect_download_btn">Download Ticwatch app</string>
+    <string name="ios_connect_connecting">Connecting to phone</string>
+    <string name="ios_connect_success_text">Connection succeeded</string>
+    <string name="ios_connect_fail_text">Connection failed</string>
+    <string name="ios_connect_fail_desc">Please make sure Ticwatch app is open</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ritmo cardiaco</string>
+    <string name="setting">Ajustes</string>
+
+    <!-- settings -->
+    <string name="heart_rate_number">Datos de frecuencia cardíaca</string>
+    <string name="settings_version">Versión: %s</string>
+    <string name="settings_version_res">Haga clic para ver los detalles</string>
+
+    <!-- Heart Rate -->
+    <string name="heart_rate_preparing">Prepárese para probar</string>
+    <string name="heart_rate_click">Toque el corazón para probar de nuevo</string>
+    <string name="heart_rate_testing">Probando</string>
+    <string name="heart_rate_test_tips">Trate de mantenerse quieto</string>
+    <string name="heart_rate_test_failed">Error en prueba</string>
+    <string name="heart_rate_test_again">Presione el reloj Tic en su muñeca e inténtelo de nuevo.</string>
+
+    <string name="permission_rationale_notify">La inhabilitación del sensor HR no permitirá que la aplicación funcione. ¿Quieres habilitarlos?</string>
+    <string name="permission_setting_explain">Habilitar el sensor HR en los ajustes para rastrear su frecuencia cardíaca</string>
+
+    <string name="history_number">Registros de historial</string>
+    <string name="heart_rate_number_picker">Artículo</string>
+    <string name="heart_rate_test_tip">¡La prueba de la frecuencia cardíaca no se puede realizar en estado cargado!</string>
+</resources>

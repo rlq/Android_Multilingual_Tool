@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paring_no_aw_install">Please download Android Wear in Google Play first, then pair your watch.</string>
+    <string name="paring_pair_in_aw">You need to use Android Wear to pair your phone and watch first.</string>
+    <string name="paring_pair_complete">Paired Succeeded.</string>
+
+    <string name="paring_go_play_store">Go to Play Store</string>
+    <string name="paring_go_aw">Open Android Wear App</string>
+    <string name="paring_start">Start</string>
+</resources>

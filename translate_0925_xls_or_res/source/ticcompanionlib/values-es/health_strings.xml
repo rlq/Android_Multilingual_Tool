@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- units -->
+    <string name="miles">millas</string>
+    <string name="pounds">libras</string>
+    <string name="Health_information">Salud_información</string>
+    <string name="label_male">etiqueta_masculino</string>
+    <string name="label_female">etiqueta_femenino</string>
+    <string name="label_metric">etiqueta_métrico</string>
+    <string name="label_imperial">etiqueta_imperial</string>
+    <string name="personal_info">personal_info</string>
+    <string name="your_gender">su_género</string>
+    <string name="birthday">cumpleaños</string>
+    <string name="label_weight">etiqueta_peso</string>
+    <string name="label_height">etiqueta_altura</string>
+    <string name="label_unit">etiqueta_unidad</string>
+    <string name="label_gender">etiqueta_género</string>
+    <string name="label_step_goal">etiqueta_paso_objetivo</string>
+    <string name="label_unit_title">etiqueta_unidad_título</string>
+    <string name="label_unit_metric">etiqueta_unidad_métrico</string>
+    <string name="label_unit_imperial">etiqueta_unidad_imperial</string>
+    <string name="label_active_hour_start">etiqueta_activar_hora_iniciar</string>
+    <string name="set_active_hour_goal_failed">set_activo_hora_objetivo_fallido</string>
+    <string name="set_step_goal_failed">paso_paso_objetivo_fallido</string>
+    <string name="choose_weight_hint">escoger_peso_indicio</string>
+    <string name="choose_height_hint">escoger_altura_indicio</string>
+    <string name="step_goal_hint">paso_objetivo_indicio</string>
+    <string name="step_des">paso_des</string>
+    <string name="next_step">siguiente_paso</string>
+    <string name="profile_tip">perfil_consejo</string>
+    <string name="jump_profile">saltar_perfil</string>
+    <string name="finish_profile">finalizar_perfil</string>
+    <string name="profile_head_permission_tips">perfil_encabezamiento_permiso_consejos</string>
+    <string name="health_update_success">salud_actualizar_éxito</string>
+
+</resources>

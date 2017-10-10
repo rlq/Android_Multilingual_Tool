@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_update">Buscar actualizaciones</string>
+    <string name="support">Soporte</string>
+    <string name="referral_bonus">Bono de Referencia</string>
+    <string name="about_ticwatch">Acerca de Ticwatch</string>
+    <string name="edit">Editar</string>
+    <string name="logout">DESCONECTARSE</string>
+    <string name="click_login">Haga clic para iniciar sesión</string>
+    <string name="version_des">Versión:%s</string>
+    <string name="account_home">Inicio de cuenta</string>
+    <string name="nickname">Sobrenombre</string>
+    <string name="mobvoi_id">Mobvoi ID</string>
+
+    <string name="authorization">Autorización</string>
+
+
+    <string name="develop_notify_title">Modo desarrollador</string>
+    <string name="develop_notify_message">El modo desarrollador puede escribir registros de depuración en la tarjeta SD.¿Ingresar al modo desarrollador?</string>
+    <string name="develop_notify_already_enabled">Ya en modo desarrollador</string>
+    <string name="develop_options">Opciones de desarrollador</string>
+    <string name="develop_mode">Modo desarrollador</string>
+</resources>

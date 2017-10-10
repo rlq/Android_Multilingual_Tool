@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+
+    <!--Entry-->
+    <string name="entry_tips_title"></string>
+    <string name="entry_text_content"></string>
+    <string name="entry_enter"></string>
+    <string name="entry_decline"></string>
+
+    <!--主页-->
+    <string name="near_rank"></string>
+    <string name="main_like_num"></string>
+    <string name="social_loading"></string>
+
+    <!--附近排行-->
+    <string name="nearby_ranklist"></string>
+    <string name="back_to_top"></string>
+    <string name="last_tips"></string>
+    <string name="connect_net"></string>
+
+    <!--点赞人-->
+    <string name="likes_people"></string>
+    <string name="back_to_top_like"></string>
+
+    <!--点赞通知-->
+    <string name="social_set"></string>
+    <string name="like_notify_set"></string>
+    <string name="on"></string>
+    <string name="off"></string>
+    <string name="like_notify_info_on"></string>
+    <string name="like_notify_info_off"></string>
+
+    <!--他人页面-->
+    <string name="user_like_tip"></string>
+    <string name="no_rank"></string>
+    <string name="main_steps"></string>
+    <string name="main_rank"></string>
+    <string name="distance_m"></string>
+    <string name="distance_km"></string>
+    <string name="today"></string>
+    <string name="days_ago"></string>
+    <string name="today_steps"></string>
+    <string name="user_address_distance"></string>
+    <string name="push_content"></string>
+    <string name="push_title"></string>
+    <string name="push_open"></string>
+    <string name="connect_net_content"></string>
+    <string name="mobile_network_permission_denial"></string>
+    <string name="mobile_network_permission_setting_explain"></string>
+    <string name="location_permission_denial"></string>
+    <string name="location_setting_explain"></string>
+    <string name="no_address_content"></string>
+    <string name="net_fail_content"></string>
+    <string name="no_address_title"></string>
+    <string name="net_fail_title"></string>
+    <string name="connect_net_title"></string>
+    <string name="rank_first_word"></string>
+    <string name="rank_last_word"></string>
+    <string name="update_time"></string>
+
+
+    <!--精灵页面-->
+    <string name="mon_name_des" formatted="false"></string>
+
+    <string name="no_wwid_title"></string>
+    <string name="no_wwid_content"></string>
+
+
+    <string name="mon_capture_name_des" formatted="false"></string>
+
+    <string name="capture_ticmon_tips"></string>
+    <string name="get_watch_face_hint"></string>
+    <string name="download_watch_face"></string>
+    <string name="no_wwid_content_aw_android"></string>
+    <string name="no_wwid_content_aw_ios"></string>
+    <string name="no_pair_device_content"></string>
+</resources>

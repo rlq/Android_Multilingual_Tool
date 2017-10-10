@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common strings -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="appstore_title">Mobvoi Store</string>
+    <string name="appstore_url">http://activities.ticwear.net/app_download_en/store-setting.html#en</string>
+    <string name="save">Save</string>
+</resources>

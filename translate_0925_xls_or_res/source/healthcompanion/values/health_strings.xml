@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Mobvoi Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- health center-->
+    <string name="health_center">Health Center</string>
+    <string name="sports_history">%s History</string>
+    <string name="sports_unit">%1$d-minute %2$s</string>
+    <string name="this_week">This week</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+    <string name="minute">Minute</string>
+    <string name="step">Step</string>
+
+    <string name="kilometer">Kilometers</string>
+
+    <string name="distance_formatter">%1$.2f</string>
+    <string name="set_step_goal_failed">Unable to set step goal. Please connect watch.</string>
+    <!-- end of helath center-->
+
+    <string name="percent_unit">"&#037;"</string>
+    <string name="health_detail_progress_step">Steps</string>
+    <string name="health_detail_progress_time">Exercise</string>
+    <string name="health_detail_progress_count_tip">Active hours</string>
+    <string name="health_detail_cost_tip">Calories Burned</string>
+    <string name="health_detail_distance_tip">Distance/km</string>
+    <string name="health_detail_distance_miles_tip">Distance/miles</string>
+    <string name="health_detail_de_tip">Active hours</string>
+    <string name="health_detail_step_tip">Steps</string>
+    <string name="health_detail_time_tip">Exercise/min</string>
+    <string name="health_detail_tip">View detailed data</string>
+
+    <string name="time_minute">Minutes</string>
+
+    <string name="health_average">Avg</string>
+    <string name="health_step_unit">steps</string>
+    <string name="health_time_unit">mins</string>
+    <string name="health_count_unit">hours</string>
+    <string name="health_detail_dialog_step_tip"><![CDATA[
+        <font color=#ff804c size=50>&#183; </font>Current daily goal is &#160;%1$d&#160;steps. If you prefer a different goal, you can change your daily steps goal through Health Center——Personal information.]]></string>
+    <string name="health_detail_dialog_time_tip"><![CDATA[
+        <font color=#33a6ff>&#183; </font>Only exercise more intense than a quick walk is counted as exercise.<br><br>
+        <font color=#33a6ff>&#183; </font>For your reference, medical experts suggests&#160;20-30&#160;minutes of moderate to high intensity exercise every day.]]></string>
+    <string name="health_detail_dialog_count_tip"><![CDATA[
+        <font color=#64d35e>&#183; </font>Only hours with more than&#160;250&#160;steps are counted.<br><br>
+        <font color=#64d35e>&#183; </font>Taking frequent breaks to stand up or walk significantly decreases your chances of getting diabetes or heart disease. Research recommends standing a few minutes every hour.]]></string>
+    <string name="health_detail_dialog_step_title">Total steps for the day</string>
+    <string name="health_detail_dialog_step_subtitle">Walking&#160;8000~10000&#160;steps every day is recommended.</string>
+    <string name="health_detail_dialog_time_title">Total steps intensity for the day</string>
+    <string name="health_detail_dialog_time_subtitle">Walking at least&#160;30&#160;minutes every day is recommended.</string>
+    <string name="health_detail_dialog_count_title">Total active hours for the day.</string>
+    <string name="health_detail_dialog_count_subtitle">Walking at least&#160;250&#160;steps every hour is recommended.</string>
+
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+
+    <string name="health_version_tip_dialog_title">*&#160;Ticwatch version is too low. Please update watch to view completed health information.</string>
+    <string name="health_version_tip_dialog_item1_start">1.&#160;Open&#160;</string>
+    <string name="health_version_tip_dialog_item1_end">&#160;[Settings]on watch</string>
+    <string name="health_version_tip_dialog_item2_start">2.&#160;Find&#160;</string>
+    <string name="health_version_tip_dialog_item2_end">&#160;[Update]</string>
+    <string name="health_version_tip_dialog_item3">3.&#160;Choose&#160;[Version Update]</string>
+    <string name="health_version_tip_dialog_item4">4.&#160;Open Ticwear app on the phone after the update is completed.</string>
+    <string name="health_version_tip_dialog_buttom">OK</string>
+</resources>

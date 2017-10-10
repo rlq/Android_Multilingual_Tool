@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authorize_title"></string>
+    <string name="fit_authorized"></string>
+    <string name="fit_unauthorized"></string>
+    <string name="fitness_default_activity"></string>
+    <string name="label_share"></string>
+    <string name="label_share_title"></string>
+    <string name="fitness_data_sync_tip"></string>
+</resources>

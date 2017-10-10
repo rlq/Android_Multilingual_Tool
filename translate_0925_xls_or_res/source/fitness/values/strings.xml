@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--info-->
+    <string name="app_name">Fitness</string>
+    <string name="permission_label">Access current fitness data</string>
+    <string name="info_tips">Please enter your data to make the \n movement data more accurate</string>
+    <string name="sex_label">Sex</string>
+    <string name="sex_male">Male</string>
+    <string name="sex_female">Female</string>
+    <string name="birth_label">Birth (year)</string>
+    <string name="height_label">Height (cm)</string>
+    <string name="height_inch_label">Height (ft)</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="weight_pound_label">Weight (lb)</string>
+
+    <!--fitness list-->
+    <string-array name="exercise">
+        <item name="exercise_0">Outdoor Run</item>
+        <item name="exercise_1">Outdoor Walk</item>
+        <item name="exercise_2">Indoor Run</item>
+        <item name="exercise_3">Cycling</item>
+        <item name="exercise_4">Free Style</item>
+    </string-array>
+
+    <string name="enable_collection">Open collection</string>
+    <string name="disable_collection">Close collection</string>
+    <string name="input_format_error">Incorrect input format</string>
+    <string name="ground_truth_input_title">Ground Truth</string>
+    <string name="ground_truth_input_msg">Input the actual distance and step count. Leave blank if unsure.</string>
+    <string name="distance_input_hint">Distance(%s)</string>
+    <string name="steps_input_hint">Step counts</string>
+
+    <string name="label_kilo_max">Best：%skm</string>
+    <string name="label_miles_max">Best：%smiles</string>
+    <string name="label_calorie_max">Best：%1$dkcal</string>
+    <string name="label_step_max">Best：%1$dstep</string>
+    <string name="label_time_max">Best：%1$dmin</string>
+    <string name="label_group_max">Best：%1$d</string>
+    <string name="target_value"><large>%s</large><small>:%s</small></string>
+
+    <string name="start_des">Swipe left to view \n your history record</string>
+    <string name="sport_bestDes"><big>Let’s get started!</big></string>
+
+    <string name="companion_upgrade_notify">Please update Companion App to view your new fitness data.</string>
+    <string name="permission_rationale_notify">Disabling GPS and HR sensor will not allow trace and HR functions. Want to enable them?</string>
+    <string name="permission_setting_explain">Enable GPS and HR sensor in Settings to track your route and heart rate.</string>
+    <string name="storage_permission_rationale_notify">Data collect mode needs permission to write data to SD Card. Want to enable it?</string>
+    <string name="storage_permission_settings_explain">Data collect needs permission to write SD Card. Want to enable it in Settings?</string>
+
+    <!--history-->
+    <string name="history_title">Fitness History</string>
+    <string name="history_finish">Complete</string>
+    <string name="history_none">No record. Let’s get started!</string>
+
+    <!--target-->
+    <string name="target_none">No Goal</string>
+    <string name="value_none">Go</string>
+    <string name="multi_day_label">(+%1$d)</string>
+    <string name="start">Go</string>
+    <string name="target_unset">Goal not set</string>
+
+    <!--gps-->
+    <string name="gps_des">Please remain stationary. Skipping this step might cause loss of route tracking.</string>
+    <string name="gps_prepared_des">Next, select goal and start your sport</string>
+    <string name="gps_fail_des">Please stand still in an open area. Skipping this step might cause loss of route tracking.</string>
+    <string name="gps_fail">Failed to lock GPS</string>
+    <string name="gps_working">GPS locking...</string>
+    <string name="gps_prepared">GPS Prepared</string>
+    <string name="gps_skip">Skip</string>
+    <string name="gps_dialog_des">Please remain stationary and wait for GPS lock. Otherwise you might lose route tracking.</string>
+    <string name="gps_dialog_watch1">No GPS module is detected. Please connect to the phone so that the fitness route can be captured.</string>
+    <string name="gps_dialog_phone">Disconnect to the phone or turn on the GPS on the mobile, access your location for fitness route recordor it will not be saved.</string>
+    <string name="gps_dialog_air">Your watch has airplane mode on. Exit airplane mode to save and sync fitness route record.</string>
+    <string name="gps_dialog_wear_gps">Turn on the GPS, so that the fitness route can be captured.</string>
+    <string name="gps_dialog_block_permission">Failed to get GPS permission. Please give permission so that the fitness route can be captured.</string>
+    <string name="gps_dialog_other">GPS searching error. Please restart the fitness app so that the fitness route can be captured.</string>
+
+    <string name="gps_go">Go</string>
+    <string name="gps_close">Exit</string>
+    <string name="gps_air">Turn Off Airplane Mode</string>
+    <string name="gps_on">Turn On GPS</string>
+
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <!--running-->
+    <string name="title_activity_running">Running</string>
+    <string name="work_stop">Long press to end</string>
+    <string name="work_stop_des">%s Do you want to end it?</string>
+    <string name="work_stop_time">Workout is too short to save.</string>
+    <string name="work_stop_point">No data captured in this workout.</string>
+    <string name="work_gps_inactive">Disconnected from phone, therefore GPS is not available.</string>
+
+    <!--free train-->
+    <string name="free_work_pause">"Pause Set %s"</string>
+    <string name="free_work_start">"Set No %s"</string>
+
+    <!--result-->
+    <string name="finish_percent_label">%1$s  Completed %2$s</string>
+    <string name="value_units" translatable="false">&#160;%s</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_des">Confirm deleting this data?</string>
+    <string name="detai_des">Detail Data</string>
+
+    <!--notification-->
+    <string name="notification_text">%1$s %2$s \nTap to return</string>
+    <string name="notification_running">...</string>
+    <string name="notification_pause">paused.</string>
+    <string name="notification_preparing">preparing...</string>
+    <string name="countdown_des">Please tighten the watch on your wrist to get accurate HR results.</string>
+    <string name="auto_pause">auto pause</string>
+
+</resources>

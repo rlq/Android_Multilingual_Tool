@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heart_level_rest">Ruht</string>
+    <string name="heart_level_warm_up">Aufwärmen</string>
+    <string name="heart_level_fat_burn">Fettverbrennung</string>
+    <string name="heart_level_aerobic">Kardio</string>
+    <string name="heart_level_anagrobic">Anaerob</string>
+    <string name="heart_level_dangerous">Gefährlich!</string>
+
+    <string name="heart_level_rest_long">Ruht</string>
+    <string name="heart_level_warm_up_long">Aufwärmen</string>
+    <string name="heart_level_fat_burn_long">Fettverbrennung</string>
+    <string name="heart_level_aerobic_long">Kardio</string>
+    <string name="heart_level_anagrobic_long">Anaerob</string>
+    <string name="heart_level_dangerous_long">Gefährlich</string>
+</resources>

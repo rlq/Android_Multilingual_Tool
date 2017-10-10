@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--语音播报-->
+    <string name="dis">distance</string>
+    <string name="time">dans</string>
+    <string name="pace">rythme</string>
+    <string name="speed">vitesse</string>
+    <string name="total">un total de</string>
+    <string name="heart">rythme cardiaque</string>
+    <string name="calorie">brulé</string>
+    <string name="free">terminé</string>
+    <string name="perc">pour cent</string>
+
+    <string name="per">par</string>
+    <string name="hour">heure</string>
+    <string name="hours">heures</string>
+    <string name="min">minute</string>
+    <string name="mins">minutes</string>
+    <string name="sec">seconde</string>
+    <string name="secs">secondes</string>
+    <string name="km">kilomètre</string>
+    <string name="kms">kilomètres</string>
+    <string name="km2">mile</string>
+    <string name="kms2">miles</string>
+    <string name="step">pas</string>
+    <string name="steps">pas</string>
+    <string name="kcal">kilo calorie</string>
+    <string name="kcals">kilo calories</string>
+    <string name="beat">battement</string>
+    <string name="beats">battements</string>
+    <string name="group">groupe</string>
+    <string name="groups">groupes</string>
+    <string name="be0">vous êtes dans le</string>
+    <string name="be1">zone</string>
+
+    <string name="have">Vous avez</string>
+    <string name="end">est terminé</string>
+    <string name="target">Objectif atteint</string>
+    <string name="avg">moyenne</string>
+    <string name="cur">actuel</string>
+
+    <string name="run">couru</string>
+    <string name="run2">course</string>
+    <string name="walk">marché</string>
+    <string name="walk2">marche</string>
+    <string name="bike">pédalé</string>
+    <string name="bike2">à vélo</string>
+    <string name="train">entrainé</string>
+    <string name="train2">entrainement</string>
+
+    <string name="begin">Commençons !</string>
+    <string name="pause">L\’activité a été mise en pause.</string>
+    <string name="auto">Activités automatiquement en pause.</string>
+
+    <string name="settings_title">réglages</string>
+    <string name="settings_tts">Retour TTS</string>
+    <string name="settings_tts_on">Activé</string>
+    <string name="settings_tts_off">Désactivé</string>
+    <string name="settings_freq">Fréquence de retours</string>
+    <string name="settings_gesture">Double contrôle du poignet</string>
+    <string name="settings_gesture_msg">Diffusion des données d\’activité en cours</string>
+    <string name="settings_help">Utilisation de l\’aide</string>
+    <string name="settings_help_res" formatted="false">1 Tic Sports fournit des retours personnalisés au programme
+        que vous avez sélectionné et à l\’objectif que vous avez établi.\n 2 Il existe deux modes de
+        retour : par distance ou par temps. Vous pouvez choisir de recevoir des notifications audio toutes
+        les 10 minutes ou tous les 1 km. \n 3 Activez le retour des étapes importantes pour recevoir
+        des informations relatives à Tic Sports buzz pour vous encourager lorsque vous arrivez à
+        50% et 75% de votre séance d\’entraînement.</string>
+
+    <string name="settings_version">Version：</string>
+    <string name="settings_version_res">Cliquez pour voir les détails</string>
+
+    <string name="and">et</string>
+    <string name="p">point</string>
+    <string name="zero">zéro</string>
+    <string name="one1">un</string>
+    <string name="two1">deux</string>
+    <string name="three1">Trois</string>
+    <string name="four">quatre</string>
+    <string name="five">cinq</string>
+    <string name="six">six</string>
+    <string name="seven">Sept</string>
+    <string name="eight">huit</string>
+    <string name="nine">neuf</string>
+    <string name="ten">dix</string>
+    <string name="eleven">onze</string>
+    <string name="twelve">douze</string>
+    <string name="thirteen">treize</string>
+    <string name="fourteen">quatorze</string>
+    <string name="fifteen">quinze</string>
+    <string name="sixteen">seize</string>
+    <string name="seventeen">dix-sept</string>
+    <string name="eighteen">dix-huit</string>
+    <string name="nineteen">dix-neuf</string>
+    <string name="twenty">vingt</string>
+    <string name="thirty">trente</string>
+    <string name="forty">quarante</string>
+    <string name="fifty">cinquante</string>
+    <string name="sixty">soixante</string>
+    <string name="seventy">soixante-dix</string>
+    <string name="eighty">quatre-vingts</string>
+    <string name="ninety">quatre vingt dix</string>
+    <string name="hundred">cent</string>
+    <string name="thousand">mille</string>
+    <string name="wan"></string>
+</resources>

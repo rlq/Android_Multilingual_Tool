@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_bing">18dp</dimen>
+
+    <dimen name="health_graph_text_28">14sp</dimen>
+    <dimen name="health_graph_text_24">12sp</dimen>
+    <dimen name="health_graph_text_20">10sp</dimen>
+    <dimen name="health_graph_line_width">3dp</dimen>
+    <dimen name="health_graph_circle_radius">5dp</dimen>
+    <dimen name="health_step_margin_bottom">15dp</dimen>
+    <dimen name="health_text_margin_top">20dp</dimen>
+</resources>

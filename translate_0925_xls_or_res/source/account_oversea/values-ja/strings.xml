@@ -1,0 +1,6 @@
+<resources>
+    <string name="account_hint">メールアドレスを入力してください</string>
+    <string name="account_format_error">メール形式が正しくありません</string>
+    <string name="account_empty">メールアドレスを入力してください</string>
+    <string name="captcha_sent_mail">コードが送信されました。メールを確認してください</string>
+</resources>

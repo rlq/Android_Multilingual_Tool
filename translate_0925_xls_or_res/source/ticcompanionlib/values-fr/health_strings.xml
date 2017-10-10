@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- units -->
+    <string name="miles">mi</string>
+    <string name="pounds">%d livres</string>
+    <string name="Health_information">Informations médicales</string>
+    <string name="label_male">Homme</string>
+    <string name="label_female">Femme</string>
+    <string name="label_metric">Système métrique</string>
+    <string name="label_imperial">Système impérial</string>
+    <string name="personal_info">Mettre les informations personnelles à jour</string>
+    <string name="your_gender">Votre sexe</string>
+    <string name="birthday">Date de naissance</string>
+    <string name="label_weight">Poids</string>
+    <string name="label_height">Taille</string>
+    <string name="label_unit">Unité</string>
+    <string name="label_gender">Sexe</string>
+    <string name="label_step_goal">Objectif en pas</string>
+    <string name="label_unit_title">Sélectionner une unité</string>
+    <string name="label_unit_metric">Système métrique</string>
+    <string name="label_unit_imperial">Système impérial</string>
+    <string name="label_active_hour_start">Gamme d'heures actives</string>
+    <string name="set_active_hour_goal_failed">Impossible de régler la gamme d'heures actives. Veuillez connecter la montre.</string>
+    <string name="set_step_goal_failed">Impossible de régler l’objectif en nombre de pas. Veuillez connecter la montre.</string>
+    <string name="choose_weight_hint">Indiquez votre poids pour des données précises</string>
+    <string name="choose_height_hint">Indiquez votre taille pour des données précises</string>
+    <string name="step_goal_hint">Définir votre objectif en pas</string>
+    <string name="step_des">%d pas</string>
+    <string name="next_step">Étape suivante</string>
+    <string name="profile_tip">Veuillez saisir des informations personnelles exactes pour assurer la précision des données de déplacement</string>
+    <string name="jump_profile">Non nécessaire. Passer.</string>
+    <string name="finish_profile">Terminer</string>
+    <string name="profile_head_permission_tips">Autorisez Ticwatch à accéder à vos photos pour définir votre photo de profil</string>
+    <string name="health_update_success">Mise à jour réussie</string>
+
+</resources>

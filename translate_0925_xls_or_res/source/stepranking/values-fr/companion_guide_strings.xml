@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_explain">Veuillez installer l’application %s pour accéder à l’information sur le classement des pas.</string>
+    <string name="login_explain">Veuillez vous connecter à l’application %s pour accéder à l’information sur le classement des pas.</string>
+</resources>
