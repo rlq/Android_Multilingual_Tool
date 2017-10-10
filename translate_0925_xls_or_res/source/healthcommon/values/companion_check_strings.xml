@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="companion_android_no_exist">Please install Ticwatch App to access %1$s information.</string>
-    <string name="companion_android_no_login">Please log into Ticwatch App to access %1$s information.</string>
-    <string name="companion_ios_no_exist">Please install and log into Ticwatch App to access %1$s information.</string>
-</resources>

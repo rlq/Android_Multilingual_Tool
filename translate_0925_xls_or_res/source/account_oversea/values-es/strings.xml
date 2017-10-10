@@ -1,6 +1,0 @@
-<resources>
-    <string name="account_hint">Introduzca su dirección de correo electrónico</string>
-    <string name="account_format_error">El formato de correo electrónico es incorrecto</string>
-    <string name="account_empty">Introduzca su dirección de correo electrónico</string>
-    <string name="captcha_sent_mail">Código enviado, compruebe su correo electrónico.</string>
-</resources>

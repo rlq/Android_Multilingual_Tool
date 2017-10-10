@@ -1,6 +1,0 @@
-<resources>
-
-    <!-- EULA -->
-    <string name="eula_interstitial_command">Mobvoiのエンドユーザ使用許諾契約に同意しますか？</string>
-    <string name="eula_interstitial_eula"></string>
-</resources>

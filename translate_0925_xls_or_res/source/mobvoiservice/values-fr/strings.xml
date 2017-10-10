@@ -1,6 +1,0 @@
-<resources>
-
-    <!-- EULA -->
-    <string name="eula_interstitial_command">D\'accord avec le contrat de licence utilisateur final de Mobvoi?</string>
-    <string name="eula_interstitial_eula">http://t.cn/Rog9M3G</string>
-</resources>

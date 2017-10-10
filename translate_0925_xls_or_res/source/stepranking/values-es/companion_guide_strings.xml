@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="install_explain">Por favor,instala la App %s para acceder a la información de ranking por pasos.</string>
-    <string name="login_explain">Por favor, inicia sesión en la App %s para acceder la información de ranking por pasos.</string>
-</resources>

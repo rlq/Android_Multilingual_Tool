@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="menu_title_share">Teilen</string>
-    <string name="help_share_title">Ticwatch Bedienungsanleitung</string>
-    <string name="change_avatar_camera">Ein Foto machen</string>
-    <string name="change_avatar_photo">Wählen Sie aus der Fotogalerie</string>
-    <string name="label_share">Teilen</string>
-    <string name="label_share_title">Teilen mit</string>
-</resources>

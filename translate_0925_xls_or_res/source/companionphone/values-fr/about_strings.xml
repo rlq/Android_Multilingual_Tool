@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="about_home_web">Site officiel Ticwatch</string>
-    <string name="about_home_web_url">https://en.ticstore.com/</string>
-    <string name="about_legal_notices">Conditions générales de Ticwatch</string>
-    <string name="about_legal_notices_url">http://ticwear.com/notices-en.html</string>
-</resources>

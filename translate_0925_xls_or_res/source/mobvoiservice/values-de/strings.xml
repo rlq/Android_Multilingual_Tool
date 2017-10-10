@@ -1,6 +1,0 @@
-<resources>
-
-    <!-- EULA -->
-    <string name="eula_interstitial_command">Stimme zu Mobvois Endbenutzer-Lizenzvereinbarung zu?</string>
-    <string name="eula_interstitial_eula"></string>
-</resources>

@@ -1,6 +1,0 @@
-<resources>
-    <string name="account_hint"></string>
-    <string name="account_format_error"></string>
-    <string name="account_empty"></string>
-    <string name="captcha_sent_mail"></string>
-</resources>

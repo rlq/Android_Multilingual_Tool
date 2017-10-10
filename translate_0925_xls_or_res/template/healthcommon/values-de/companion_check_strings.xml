@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="companion_android_no_exist"></string>
-    <string name="companion_android_no_login"></string>
-    <string name="companion_ios_no_exist"></string>
-</resources>
